@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>☕ Java Programming Practice Roadmap - Interactive Dashboard</title>
+  
+  <meta name="description" content="A comprehensive, interactive Java programming practice roadmap designed for freshers, developers, and students preparing for coding interviews.">
+  <meta name="color-scheme" content="light dark">
+  
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- Prism.js Syntax Highlighting Theme -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css" id="prism-theme">
+  
+  <!-- Custom Stylesheet -->
+  <link rel="stylesheet" href="styles.css">
+  
+  <!-- Pre-render theme settings to avoid flash of light mode -->
+  <script>
+    (function() {
+      const storedTheme = localStorage.getItem('java-roadmap-theme') || 'system';
+      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      const isDark = storedTheme === 'dark' || (storedTheme === 'system' && prefersDark);
+      document.documentElement.classList.toggle('dark', isDark);
+      document.documentElement.setAttribute('data-theme-setting', storedTheme);
+    })();
+  </script>
+</head>
+<body>
+  <div class="app-container">
+    
+    <!-- Sidebar Navigation -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-header">
+        <div class="logo-area">
+          <svg class="logo-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M18 8h1a4 4 0 0 1 8 0v1a4 4 0 0 1-4 4h-1"></path>
+            <path d="M2 8h16v9a4 4 0 0 1-4 4H6a4 4 0 0 1-4-4V8z"></path>
+            <path d="M6 1v3"></path>
+            <path d="M10 1v3"></path>
+            <path d="M14 1v3"></path>
+          </svg>
+          <span class="logo-text">Java Roadmap</span>
+        </div>
+        <button class="sidebar-close-btn" id="sidebar-close" aria-label="Close sidebar">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </button>
+      </div>
+
+      <!-- Quick Search Bar -->
+      <div class="search-box-container">
+        <div class="search-input-wrapper">
+          <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+          <input type="text" id="quick-search" placeholder="Search roadmap... (Press '/')" aria-label="Search roadmap">
+          <button id="search-clear" class="search-clear-btn" aria-label="Clear search" style="display: none;">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <line x1="18" y1="6" x2="6" y2="18"></line>
+              <line x1="6" y1="6" x2="18" y2="18"></line>
+            </svg>
+          </button>
+        </div>
+      </div>
+
+      <!-- Navigation Links -->
+      <nav class="sidebar-nav" id="sidebar-nav">
+        <ul class="nav-list">
+          <li class="nav-item">
+            <a href="#" class="nav-link active" data-file="00_Table_of_Contents.md" id="nav-toc">
+              <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <line x1="8" y1="6" x2="21" y2="6"></line>
+                <line x1="8" y1="12" x2="21" y2="12"></line>
+                <line x1="8" y1="18" x2="21" y2="18"></line>
+                <line x1="3" y1="6" x2="3.01" y2="6"></line>
+                <line x1="3" y1="12" x2="3.01" y2="12"></line>
+                <line x1="3" y1="18" x2="3.01" y2="18"></line>
+              </svg>
+              <span>Table of Contents</span>
+            </a>
+          </li>
+          
+          <li class="nav-group-title">Milestone 1: Fundamentals</li>
+          <li class="nav-item">
+            <a href="#Part_01_Fundamentals.md" class="nav-link" data-file="Part_01_Fundamentals.md">
+              <span class="part-num">01</span>
+              <span>Java Fundamentals</span>
+            </a>
+          </li>
+
+          <li class="nav-group-title">Milestone 2: Control & Arrays</li>
+          <li class="nav-item">
+            <a href="#Part_02_ControlFlow_Arrays.md" class="nav-link" data-file="Part_02_ControlFlow_Arrays.md">
+              <span class="part-num">02</span>
+              <span>Control Flow & Arrays</span>
+            </a>
+          </li>
+
+          <li class="nav-group-title">Milestone 3: OOP Foundations</li>
+          <li class="nav-item">
+            <a href="#Part_03_Methods_OOP.md" class="nav-link" data-file="Part_03_Methods_OOP.md">
+              <span class="part-num">03</span>
+              <span>Methods & OOP</span>
+            </a>
+          </li>
+
+          <li class="nav-group-title">Milestone 4: Core Libraries</li>
+          <li class="nav-item">
+            <a href="#Part_04_Exceptions_Collections_IO.md" class="nav-link" data-file="Part_04_Exceptions_Collections_IO.md">
+              <span class="part-num">04</span>
+              <span>Exceptions, Collections & IO</span>
+            </a>
+          </li>
+
+          <li class="nav-group-title">Milestone 5: Advanced Java</li>
+          <li class="nav-item">
+            <a href="#Part_05_Modern_Java_Patterns.md" class="nav-link" data-file="Part_05_Modern_Java_Patterns.md">
+              <span class="part-num">05</span>
+              <span>Enterprise Features</span>
+            </a>
+          </li>
+
+          <li class="nav-group-title">Milestone 6: Mastery</li>
+          <li class="nav-item">
+            <a href="#Part_06_Interview_Problems.md" class="nav-link" data-file="Part_06_Interview_Problems.md">
+              <span class="part-num">06</span>
+              <span>Interview Mastery</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="#Part_07_Mastery_Challenge.md" class="nav-link" data-file="Part_07_Mastery_Challenge.md">
+              <span class="part-num">07</span>
+              <span>Mastery Challenge</span>
+            </a>
+          </li>
+          
+          <li class="nav-group-title">Curriculum Extras</li>
+          <li class="nav-item">
+            <a href="#Part_08_Weekly_Plans_Projects.md" class="nav-link" data-file="Part_08_Weekly_Plans_Projects.md">
+              <span class="part-num">08</span>
+              <span>Weekly Plans & Projects</span>
+            </a>
+          </li>
+          
+          <li class="nav-group-title">Practice Center</li>
+          <li class="nav-item">
+            <a href="#Part_09_Practice_Java.md" class="nav-link" data-file="Part_09_Practice_Java.md">
+              <span class="part-num">09</span>
+              <span>Practice Java</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="#Part_10_Recent_Interviews.md" class="nav-link" data-file="Part_10_Recent_Interviews.md">
+              <span class="part-num">10</span>
+              <span>Recent Interviews</span>
+            </a>
+          </li>
+          <li class="nav-item">
+            <a href="#Part_11_Massive_Practice.md" class="nav-link" data-file="Part_11_Massive_Practice.md">
+              <span class="part-num">11</span>
+              <span>Massive Practice</span>
+            </a>
+          </li>
+          
+          <li class="nav-group-title">Utilities</li>
+          <li class="nav-item">
+            <button id="print-full-guide" class="print-btn-sidebar" title="Print entire roadmap to PDF">
+              <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <polyline points="6 9 6 2 18 2 18 9"></polyline>
+                <path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path>
+                <rect x="6" y="14" width="12" height="8"></rect>
+              </svg>
+              <span>Print Roadmap (PDF)</span>
+            </button>
+          </li>
+        </ul>
+      </nav>
+
+      <!-- Sidebar Footer -->
+      <div class="sidebar-footer">
+        <div class="progress-stats">
+          <div class="stats-label">Mastery Progress</div>
+          <div class="stats-progress-container">
+            <div class="stats-progress-bar" id="overall-progress-bar" style="width: 0%;"></div>
+          </div>
+          <div class="stats-text" id="overall-progress-text">0 / 308 Solved (0%)</div>
+        </div>
+      </div>
+    </aside>
+
+    <!-- Sidebar Overlay for mobile -->
+    <div class="sidebar-overlay" id="sidebar-overlay"></div>
+
+    <!-- Main Content Area -->
+    <main class="main-content">
+      
+      <!-- Top Header -->
+      <header class="header">
+        <div class="header-left">
+          <button class="menu-toggle-btn" id="menu-toggle" aria-label="Toggle sidebar">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <line x1="3" y1="12" x2="21" y2="12"></line>
+              <line x1="3" y1="6" x2="21" y2="6"></line>
+              <line x1="3" y1="18" x2="21" y2="18"></line>
+            </svg>
+          </button>
+          
+          <div class="breadcrumbs" id="breadcrumbs">
+            <span class="breadcrumb-item">Java Practice Roadmap</span>
+            <span class="breadcrumb-separator">/</span>
+            <span class="breadcrumb-item active" id="current-breadcrumb">Table of Contents</span>
+          </div>
+        </div>
+        
+        <div class="header-right">
+          <!-- Toggle Theme Trigger -->
+          <button class="theme-toggle-btn" id="theme-toggle" aria-label="Toggle theme">
+            <!-- Sun Icon (visible in light theme) -->
+            <svg class="sun-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="12" cy="12" r="5"></circle>
+              <line x1="12" y1="1" x2="12" y2="3"></line>
+              <line x1="12" y1="21" x2="12" y2="23"></line>
+              <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+              <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+              <line x1="1" y1="12" x2="3" y2="12"></line>
+              <line x1="21" y1="12" x2="23" y2="12"></line>
+              <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+              <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+            </svg>
+            <!-- Moon Icon (visible in dark theme) -->
+            <svg class="moon-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+            </svg>
+          </button>
+        </div>
+
+        <!-- Scroll progress bar -->
+        <div class="scroll-progress-container">
+          <div class="scroll-progress-bar" id="scroll-progress-bar" style="width: 0%;"></div>
+        </div>
+      </header>
+      
+      <!-- Content Container -->
+      <div class="content-container">
+        
+        <!-- Live Filtering Widget Panel (Visible only on pages with problems) -->
+        <div class="filter-widget" id="filter-panel" style="display: none;">
+          <div class="filter-group">
+            <span class="filter-label">Difficulty:</span>
+            <div class="filter-btn-group" id="diff-filters">
+              <button class="filter-btn active" data-diff="all">All</button>
+              <button class="filter-btn" data-diff="easy">Easy</button>
+              <button class="filter-btn" data-diff="medium">Medium</button>
+              <button class="filter-btn" data-diff="hard">Hard</button>
+            </div>
+          </div>
+          
+          <div class="filter-group">
+            <span class="filter-label">Topic:</span>
+            <select class="filter-select" id="topic-filter">
+              <option value="all">All Topics</option>
+            </select>
+          </div>
+
+          <div class="filter-group" id="company-filter-group" style="display: none;">
+            <span class="filter-label">Company:</span>
+            <select class="filter-select" id="company-filter">
+              <option value="all">All Companies</option>
+            </select>
+          </div>
+
+          <div class="filter-group">
+            <span class="filter-label">Status:</span>
+            <div class="filter-btn-group" id="status-filters">
+              <button class="filter-btn active" data-status="all">All</button>
+              <button class="filter-btn" data-status="unsolved">Unsolved</button>
+              <button class="filter-btn" data-status="solved">Solved</button>
+            </div>
+          </div>
+
+          <div class="filter-progress-badge" id="filter-match-count">
+            Matching: 0 / 0
+          </div>
+        </div>
+        
+        <!-- Loading Skeleton (Pulse animation) -->
+        <div class="skeleton-container" id="skeleton">
+          <div class="skeleton-title"></div>
+          <div class="skeleton-line" style="width: 40%"></div>
+          <div class="skeleton-divider"></div>
+          <div class="skeleton-line"></div>
+          <div class="skeleton-line" style="width: 90%"></div>
+          <div class="skeleton-line" style="width: 95%"></div>
+          <div class="skeleton-line" style="width: 60%"></div>
+          <div class="skeleton-card"></div>
+          <div class="skeleton-line"></div>
+          <div class="skeleton-line" style="width: 85%"></div>
+        </div>
+
+        <!-- Actual Rendered Article -->
+        <article class="markdown-body" id="content" style="display: none;">
+          <!-- Markdown contents injected here -->
+        </article>
+
+        <!-- Navigation Buttons at bottom -->
+        <div class="content-navigation" id="content-nav" style="display: none;">
+          <a href="#" class="nav-btn prev-btn" id="prev-part">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <line x1="19" y1="12" x2="5" y2="12"></line>
+              <polyline points="12 19 5 12 12 5"></polyline>
+            </svg>
+            <div class="nav-btn-info">
+              <span class="nav-btn-label">Previous Milestone</span>
+              <span class="nav-btn-title" id="prev-part-title">...</span>
+            </div>
+          </a>
+          
+          <a href="#" class="nav-btn next-btn" id="next-part">
+            <div class="nav-btn-info">
+              <span class="nav-btn-label">Next Milestone</span>
+              <span class="nav-btn-title" id="next-part-title">...</span>
+            </div>
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <line x1="5" y1="12" x2="19" y2="12"></line>
+              <polyline points="12 5 19 12 12 19"></polyline>
+            </svg>
+          </a>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <!-- Search Results Overlay Modal -->
+  <div class="search-overlay" id="search-modal">
+    <div class="search-modal-container">
+      <div class="search-modal-header">
+        <svg class="search-icon-lg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <input type="text" id="modal-search-input" placeholder="Search across all roadmap files..." aria-label="Search roadmap text">
+        <button class="search-modal-close" id="search-modal-close" aria-label="Close search">
+          <kbd>ESC</kbd>
+        </button>
+      </div>
+      
+      <div class="search-modal-body">
+        <div class="search-indexing-status" id="search-index-status">
+          <div class="spinner"></div>
+          <span>Indexing curriculum contents in background for full-text search...</span>
+        </div>
+        <div class="search-results-container" id="search-results">
+          <div class="search-empty-state">
+            <p>Type keywords to search the entire Java roadmap</p>
+            <div class="search-tips">
+              <strong>Tips:</strong>
+              <ul>
+                <li>Press <kbd>Enter</kbd> to search</li>
+                <li>Search for specific concepts (e.g. <code>Streams</code>, <code>Multithreading</code>, <code>Polymorphism</code>)</li>
+                <li>Search for coding problems by difficulty (e.g. <code>Hard</code>, <code>Easy</code>) or topic name</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Floating Back to Top Button -->
+  <button class="back-to-top" id="back-to-top-btn" aria-label="Back to top">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+      <polyline points="18 15 12 9 6 15"></polyline>
+    </svg>
+  </button>
+
+  <!-- External JS libraries -->
+  <script src="https://cdn.jsdelivr.net/npm/marked@4.3.0/marked.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-markdown.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-bash.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-java.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-sql.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-json.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.min.js"></script>
+
+  <!-- Print Compiling Loader Overlay -->
+  <div class="print-loading-overlay" id="print-loading-overlay">
+    <div class="print-loading-card">
+      <div class="spinner-lg"></div>
+      <h3>Compiling PDF Document</h3>
+      <p>Fetching and rendering all parts of the roadmap. This may take a few seconds...</p>
+      <div class="print-progress-wrapper">
+        <div class="print-progress-bar" id="print-compilation-progress-bar" style="width: 0%;"></div>
+      </div>
+      <div class="print-progress-text" id="print-compilation-progress-text">Preparing...</div>
+    </div>
+  </div>
+
+  <!-- Print Container (Only visible in print media) -->
+  <div id="print-container"></div>
+
+  <!-- Custom JS Logic -->
+  <script src="app.js"></script>
+</body>
+</html>

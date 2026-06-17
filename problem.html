@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Code Editor - Java Practice Center</title>
+  <!-- Outfit, Inter, and Fira Code fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700;800&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <!-- CSS Stylesheet -->
+  <link rel="stylesheet" href="styles.css">
+  <!-- Prism theme for syntax highlighting -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism-tomorrow.min.css">
+  
+  <!-- Monaco Editor Loader -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/monaco-editor/0.39.0/min/vs/loader.min.js"></script>
+  
+  <style>
+    /* Direct override for editor style dark theme */
+    :root {
+      --bg-primary: #0a0b0d;
+      --bg-secondary: #101216;
+      --bg-card: #16181f;
+      --border-color: #21252b;
+      --text-primary: #abb2bf;
+      --text-secondary: #8b92a0;
+      --text-muted: #5c6370;
+    }
+  </style>
+</head>
+<body class="ide-body">
+  <div class="ide-layout">
+    
+    <!-- LEFT PANEL: Description and Solution -->
+    <div class="ide-left-panel">
+      <div class="ide-panel-header">
+        <a href="index.html" class="ide-back-link" id="back-to-roadmap">
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5">
+            <line x1="19" y1="12" x2="5" y2="12"></line>
+            <polyline points="12 19 5 12 12 5"></polyline>
+          </svg>
+          Back to Roadmap
+        </a>
+        <div class="filter-progress-badge" id="problem-meta-badge" style="font-size: 0.8rem; font-weight: 700;">
+          Problem Loading...
+        </div>
+      </div>
+      
+      <!-- Tab Headers -->
+      <div class="ide-tabs">
+        <button class="ide-tab-btn active" data-tab="description">Description</button>
+        <button class="ide-tab-btn" data-tab="solution" id="solution-tab-btn">Solution</button>
+      </div>
+      
+      <!-- Tab Content Area -->
+      <div class="ide-left-content markdown-body" id="tab-content">
+        <!-- DESCRIPTION TAB -->
+        <div class="ide-tab-pane active" id="tab-description">
+          <div class="skeleton-container" style="padding: 20px 0;">
+            <div class="skeleton-title"></div>
+            <div class="skeleton-line"></div>
+            <div class="skeleton-line" style="width: 80%"></div>
+            <div class="skeleton-divider"></div>
+            <div class="skeleton-line" style="width: 90%"></div>
+            <div class="skeleton-line" style="width: 50%"></div>
+          </div>
+        </div>
+        
+        <!-- SOLUTION TAB -->
+        <div class="ide-tab-pane" id="tab-solution">
+          <h3>Java Code Solution</h3>
+          <p>Here is the standard correct solution for this problem. You can copy it, paste it into the editor, or use it to verify your own logic.</p>
+          <div id="solution-code-container">
+            <!-- Populated dynamically -->
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- RIGHT PANEL: Code Editor and Console -->
+    <div class="ide-right-panel">
+      <!-- Editor Header Actions -->
+      <div class="editor-header-bar">
+        <div class="editor-title">
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" style="color: var(--accent);">
+            <polyline points="16 18 22 12 16 6"></polyline>
+            <polyline points="8 6 2 12 8 18"></polyline>
+          </svg>
+          Java Solution Workspace
+        </div>
+        <div class="editor-actions">
+          <button class="ide-btn" id="btn-reset">Reset Code</button>
+          <button class="ide-btn ide-btn-run" id="btn-run">Run Code</button>
+          <button class="ide-btn ide-btn-submit" id="btn-submit">Save & Submit</button>
+        </div>
+      </div>
+      
+      <!-- Code Editor Container (Monaco Editor) -->
+      <div class="editor-workspace" id="editor-container"></div>
+      
+      <!-- Console / Output Panel -->
+      <div class="ide-console">
+        <div class="console-header">Console Output</div>
+        <div class="console-body" id="console-body">Initialize your workspace. Type or paste your solution and click "Run Code" to test execution.</div>
+      </div>
+    </div>
+    
+  </div>
+
+  <!-- Third-party CDN libraries -->
+  <script src="https://cdn.jsdelivr.net/npm/marked@4.3.0/marked.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-java.min.js"></script>
+  <!-- Custom problem IDE scripting -->
+  <script src="problem.js"></script>
+</body>
+</html>
