@@ -80,6 +80,15 @@ graph TD
 * **Problems**: 35 (Easy → Medium → Hard)
 * **Key Topics**: Hand-picked Java programming questions asked in recent tech assessments and coding interviews at top Indian companies and startups (TCS, Infosys, Wipro, Cognizant, Zoho, Flipkart, Swiggy, Zomato, Paytm, Razorpay), complete with company tags.
 
+### 9. Write-Your-Own Practice Tracker (Part 12)
+* **File**: [Part_12_WriteYourOwn_Practice_Tracker.md](./Part_12_WriteYourOwn_Practice_Tracker.md)
+* **Problems**: 350, across 14 categories (Basic Programs, Operators, If-Else, Loops, Patterns,
+  Arrays, Strings, Methods, OOP, Exceptions, Collections, File Handling, Java 8, Advanced DSA)
+* **Key Feature**: Same interactive format as Part 9/11 — checkboxes, difficulty/topic tags, and
+  a full reference solution behind every problem. Try it yourself first, then check the
+  "Solution" tab. Merged in from the standalone `Practice-Java-Questions-and-Answers` companion
+  repo so every practice track lives in one place.
+
 ---
 
 ## 🗝️ Core Icons & Formatting Styles

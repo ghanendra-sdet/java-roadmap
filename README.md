@@ -132,6 +132,10 @@ This **Java Programming Practice Roadmap** is an interactive learning platform t
 - Practice center with 500+ problems
 - Recent interview questions
 - Massive practice collection
+- **Write-Your-Own Practice Tracker** (Part 12) — 350 more problems across 14 categories, same
+  interactive checkbox/difficulty/solution format as the rest of the app, merged in from the
+  standalone `Practice-Java-Questions-and-Answers` companion repo so every practice track lives
+  here now
 
 ---
 
@@ -229,7 +233,8 @@ Java-Roadmap/
 ├── Part_08_Weekly_Plans_Projects.md  # Weekly plans
 ├── Part_09_Practice_Java.md          # Practice center
 ├── Part_10_Recent_Interviews.md      # Recent questions
-└── Part_11_Massive_Practice.md       # Massive practice
+├── Part_11_Massive_Practice.md       # Massive practice
+└── Part_12_WriteYourOwn_Practice_Tracker.md  # Write-it-yourself tracker (merged companion repo)
 ```
 
 ---
@@ -325,12 +330,23 @@ Contributions are welcome! Here's how you can help:
 
 ## 📈 Learning Statistics
 
-- **Total Problems**: 200+
-- **Milestones**: 7 major + 4 bonus
+- **Total Problems**: 1,080+ across the full progress-tracked database
+- **Milestones**: 7 major + 5 bonus (including the new Write-Your-Own Practice Tracker)
 - **Interview Questions**: 500+ curated problems
 - **Topics Covered**: 50+
 - **Companies Featured**: 30+ major tech companies
 - **Estimated Learning Time**: 100+ hours for complete mastery
+
+---
+
+## 🔗 More Free Learning Resources
+
+Other free, open-source tools built the same way — for real, hands-on practice, not just reading:
+
+- **[SDET Roadmap](https://ghanendra-sdet.github.io/sdet-roadmap/)** — 11-module QA-to-SDET path: manual testing, API testing, Playwright automation, framework design, CI/CD, AI-assisted testing ([source](https://github.com/ghanendra-sdet/sdet-roadmap))
+- **[GIT Tutorials](https://ghanendra-sdet.github.io/git-tutorials/)** — From `git init` to rebase, reflog, and CI/CD, with a fold-to-reveal command recall drill ([source](https://github.com/ghanendra-sdet/git-tutorials))
+- **[Automation Playground](https://ghanendra-sdet.github.io/automation-playground/)** — 41-section free sandbox for practicing Selenium/Playwright/Cypress locators and interactions ([source](https://github.com/ghanendra-sdet/automation-playground))
+- **[90-Day Playwright Master Plan Tracker](https://ghanendra-sdet.github.io/60-Days-Master-Plan-for-Playwright/)** — An interactive, checkbox-driven day-by-day Playwright study planner ([source](https://github.com/ghanendra-sdet/60-Days-Master-Plan-for-Playwright))
 
 ---
 

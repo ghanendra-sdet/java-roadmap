@@ -11,7 +11,8 @@ const files = [
   'Part_08_Weekly_Plans_Projects.md',
   'Part_09_Practice_Java.md',
   'Part_10_Recent_Interviews.md',
-  'Part_11_Massive_Practice.md'
+  'Part_11_Massive_Practice.md',
+  'Part_12_WriteYourOwn_Practice_Tracker.md'
 ];
 
 const fileTitles = {
@@ -26,7 +27,8 @@ const fileTitles = {
   'Part_08_Weekly_Plans_Projects.md': 'Weekly Plans & Projects',
   'Part_09_Practice_Java.md': 'Practice Java Center',
   'Part_10_Recent_Interviews.md': 'Recent Interviews',
-  'Part_11_Massive_Practice.md': 'Milestone 7: Massive Practice Roadmap'
+  'Part_11_Massive_Practice.md': 'Milestone 7: Massive Practice Roadmap',
+  'Part_12_WriteYourOwn_Practice_Tracker.md': 'Write-Your-Own Practice Tracker'
 };
 
 // State Variables
@@ -698,7 +700,7 @@ function getSolvedProblems() {
 
 function updateOverallProgress() {
   const solvedProblems = getSolvedProblems();
-  const totalProblemsCount = 730; // Total bootcamp problem database size (265 base + 80 practice center + 35 recent interviews + 350 massive practice)
+  const totalProblemsCount = 1080; // Total bootcamp problem database size (730 prior total + 350 from the merged Write-Your-Own Practice Tracker, Part 12)
   
   const solvedCount = solvedProblems.length;
   const percent = Math.min(100, Math.round((solvedCount / totalProblemsCount) * 100));
