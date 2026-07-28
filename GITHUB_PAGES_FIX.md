@@ -34,12 +34,12 @@ Your GitHub Pages deployment was failing due to missing configuration files:
 ## Next Steps
 
 ### 1. **Verify Deployment** (5-10 minutes)
-   - Go to: `https://github.com/ghanendra-sdet/Java-Roadmap/actions`
+   - Go to: `https://github.com/ghanendra-sdet/java-roadmap/actions`
    - Look for the latest workflow run
    - Should show **green checkmark** ✅ (success)
 
 ### 2. **Check Your Live Site**
-   - URL: `https://ghanendra-sdet.github.io/Java-Roadmap/`
+   - URL: `https://ghanendra-sdet.github.io/java-roadmap/`
    - Should display your Java roadmap with:
      - Proper styling (CSS working)
      - Functional sidebar navigation (JS working)
@@ -93,7 +93,7 @@ Date: Today
 ## Manual Deployment Trigger
 
 To re-run deployment without pushing new code:
-1. Go to: `https://github.com/ghanendra-sdet/Java-Roadmap/actions`
+1. Go to: `https://github.com/ghanendra-sdet/java-roadmap/actions`
 2. Select "Deploy to GitHub Pages" workflow
 3. Click "Run workflow" → "Run workflow"
 

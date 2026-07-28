@@ -8,9 +8,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github-pages&logoColor=white)
 
-## 🚀 [Live Demo](https://ghanendra-sdet.github.io/Java-Roadmap/)
+## 🚀 [Live Demo](https://ghanendra-sdet.github.io/java-roadmap/)
 
-**👉 [Visit the Interactive Roadmap](https://ghanendra-sdet.github.io/Java-Roadmap/)** 👈
+**👉 [Visit the Interactive Roadmap](https://ghanendra-sdet.github.io/java-roadmap/)** 👈
 
 ---
 
@@ -150,8 +150,8 @@ This **Java Programming Practice Roadmap** is an interactive learning platform t
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/ghanendra-sdet/Java-Roadmap.git
-   cd Java-Roadmap
+   git clone https://github.com/ghanendra-sdet/java-roadmap.git
+   cd java-roadmap
    ```
 
 2. **Open in Browser**
@@ -211,7 +211,7 @@ This **Java Programming Practice Roadmap** is an interactive learning platform t
 ## 📁 Project Structure
 
 ```
-Java-Roadmap/
+java-roadmap/
 ├── README.md                          # This file
 ├── index.html                         # Main dashboard
 ├── problem.html                       # Problem IDE
@@ -307,7 +307,7 @@ Java-Roadmap/
 Contributions are welcome! Here's how you can help:
 
 ### Report Issues
-- Found a bug? Open an [Issue](https://github.com/ghanendra-sdet/Java-Roadmap/issues)
+- Found a bug? Open an [Issue](https://github.com/ghanendra-sdet/java-roadmap/issues)
 - Provide clear description and steps to reproduce
 
 ### Suggest Improvements
@@ -352,10 +352,10 @@ Other free, open-source tools built the same way — for real, hands-on practice
 
 ## 🔗 Useful Links
 
-- **Live Demo**: [https://ghanendra-sdet.github.io/Java-Roadmap/](https://ghanendra-sdet.github.io/Java-Roadmap/)
-- **GitHub Repository**: [https://github.com/ghanendra-sdet/Java-Roadmap](https://github.com/ghanendra-sdet/Java-Roadmap)
-- **Issues & Feedback**: [GitHub Issues](https://github.com/ghanendra-sdet/Java-Roadmap/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/ghanendra-sdet/Java-Roadmap/discussions)
+- **Live Demo**: [https://ghanendra-sdet.github.io/java-roadmap/](https://ghanendra-sdet.github.io/java-roadmap/)
+- **GitHub Repository**: [https://github.com/ghanendra-sdet/java-roadmap](https://github.com/ghanendra-sdet/java-roadmap)
+- **Issues & Feedback**: [GitHub Issues](https://github.com/ghanendra-sdet/java-roadmap/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/ghanendra-sdet/java-roadmap/discussions)
 
 ---
 
@@ -387,7 +387,7 @@ This project is open-source and available under the MIT License. See LICENSE fil
 
 **Ready to learn Java?** Here's your 30-second start:
 
-1. **Visit**: [https://ghanendra-sdet.github.io/Java-Roadmap/](https://ghanendra-sdet.github.io/Java-Roadmap/)
+1. **Visit**: [https://ghanendra-sdet.github.io/java-roadmap/](https://ghanendra-sdet.github.io/java-roadmap/)
 2. **Pick a milestone** from the sidebar
 3. **Select a problem** to practice
 4. **Write your solution** in the IDE
