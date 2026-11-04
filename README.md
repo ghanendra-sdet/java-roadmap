@@ -346,7 +346,7 @@ Other free, open-source tools built the same way — for real, hands-on practice
 - **[SDET Roadmap](https://ghanendra-sdet.github.io/sdet-roadmap/)** — 11-module QA-to-SDET path: manual testing, API testing, Playwright automation, framework design, CI/CD, AI-assisted testing ([source](https://github.com/ghanendra-sdet/sdet-roadmap))
 - **[GIT Tutorials](https://ghanendra-sdet.github.io/git-tutorials/)** — From `git init` to rebase, reflog, and CI/CD, with a fold-to-reveal command recall drill ([source](https://github.com/ghanendra-sdet/git-tutorials))
 - **[Automation Playground](https://ghanendra-sdet.github.io/automation-playground/)** — 41-section free sandbox for practicing Selenium/Playwright/Cypress locators and interactions ([source](https://github.com/ghanendra-sdet/automation-playground))
-- **[90-Day Playwright Master Plan Tracker](https://ghanendra-sdet.github.io/60-days-master-plan-for-playwright/)** — An interactive, checkbox-driven day-by-day Playwright study planner ([source](https://github.com/ghanendra-sdet/60-days-master-plan-for-playwright))
+- **[90-Day Playwright Master Plan Tracker](https://ghanendra-sdet.github.io/playwright-mastery-tracker/)** — An interactive, checkbox-driven day-by-day Playwright study planner ([source](https://github.com/ghanendra-sdet/playwright-mastery-tracker))
 
 ---
 
