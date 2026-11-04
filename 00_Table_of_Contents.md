@@ -86,7 +86,7 @@ graph TD
   Arrays, Strings, Methods, OOP, Exceptions, Collections, File Handling, Java 8, Advanced DSA)
 * **Key Feature**: Same interactive format as Part 9/11 — checkboxes, difficulty/topic tags, and
   a full reference solution behind every problem. Try it yourself first, then check the
-  "Solution" tab. Merged in from the standalone `Practice-Java-Questions-and-Answers` companion
+  "Solution" tab. Merged in from the standalone `practice-java-questions-and-answers` companion
   repo so every practice track lives in one place.
 
 ---

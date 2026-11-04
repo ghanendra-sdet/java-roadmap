@@ -5,7 +5,7 @@
 > full reference solution behind every problem — just a much bigger bank, **350 problems across
 > 14 categories**. Try writing the solution yourself first, in your own IDE, then use the built-in
 > "Solution" tab to check your work. This section was merged in from a standalone companion repo
-> (`Practice-Java-Questions-and-Answers`) so every practice track lives in one place.
+> (`practice-java-questions-and-answers`) so every practice track lives in one place.
 
 ---
 
