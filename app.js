@@ -146,21 +146,31 @@ function handleRoute() {
 // 3. MARKDOWN RENDERING PIPELINE WITH DYNAMIC PROBLEM CARDS
 const renderer = new marked.Renderer();
 
+// Same rules as GitHub's heading anchors, so one link works on GitHub and in this app
+// (e.g. "## 📋 Table of Contents" -> "-table-of-contents")
 function slugify(text) {
   return text
     .toLowerCase()
     .trim()
     .replace(/[^\w\s-]/g, '')
-    .replace(/[\s_]+/g, '-')
-    .replace(/-+/g, '-')
-    .replace(/^-+|-+$/g, '');
+    .replace(/\s/g, '-');
 }
 
-renderer.heading = function(text, level) {
-  const cleanText = text.replace(/<[^>]*>/g, '');
-  const id = slugify(cleanText);
+// GitHub suffixes repeated headings with -1, -2, ...; reset per document via parseMarkdown()
+let headingSlugCounts = {};
+
+renderer.heading = function(text, level, raw) {
+  const base = slugify(raw.replace(/<[^>]*>/g, ''));
+  const count = headingSlugCounts[base] || 0;
+  headingSlugCounts[base] = count + 1;
+  const id = count === 0 ? base : `${base}-${count}`;
   return `<h${level} id="${id}">${text}</h${level}>`;
 };
+
+function parseMarkdown(md) {
+  headingSlugCounts = {};
+  return marked.parse(md);
+}
 
 renderer.code = function(code, language) {
   if (language === 'mermaid') {
@@ -399,8 +409,10 @@ function renderProblemCards(html, forceCards = false) {
             </svg>
           </a>`;
 
+      // Keep the heading's anchor so table-of-contents links still land on this row
       row.innerHTML = `
         <div class="problem-row-status">
+          <span id="${el.id}"></span>
           <input type="checkbox" id="chk-${pId}" class="problem-checkbox" data-id="${pId}" ${isSolved ? 'checked' : ''}>
         </div>
         <div class="problem-row-star">
@@ -529,7 +541,7 @@ async function loadPage(filename, targetSection = null) {
     }
   }
 
-  let html = marked.parse(markdownText);
+  let html = parseMarkdown(markdownText);
   html = processAlerts(html);
   html = wrapTables(html);
   html = renderProblemCards(html);
@@ -1128,7 +1140,7 @@ function initPrint() {
         
         progressText.textContent = `Compiling and formatting ${fileTitles[file]}...`;
         
-        let htmlContent = marked.parse(md);
+        let htmlContent = parseMarkdown(md);
         htmlContent = processAlerts(htmlContent);
         htmlContent = wrapTables(htmlContent);
         htmlContent = renderProblemCards(htmlContent, true);

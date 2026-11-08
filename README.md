@@ -16,16 +16,16 @@
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Roadmap Milestones](#roadmap-milestones)
-- [Getting Started](#getting-started)
-- [How to Use](#how-to-use)
-- [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [Key Sections](#key-sections)
-- [Contributing](#contributing)
-- [License](#license)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Roadmap Milestones](#-roadmap-milestones)
+- [Getting Started](#-getting-started)
+- [How to Use](#-how-to-use)
+- [Project Structure](#-project-structure)
+- [Technologies Used](#-technologies-used)
+- [Key Sections](#-key-sections)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ---
 

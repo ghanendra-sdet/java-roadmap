@@ -38,31 +38,31 @@
 
 ## 📋 Table of Contents
 
-- [1. Write a Java program to print 'Hello World'](#1-write-a-java-program-to-print-hello-world)
-- [2. Write a Java program to print your name](#2-write-a-java-program-to-print-your-name)
-- [3. Write a Java program to add two numbers](#3-write-a-java-program-to-add-two-numbers)
-- [4. Write a Java program to swap two numbers](#4-write-a-java-program-to-swap-two-numbers)
-- [5. Write a Java program to calculate the area of a circle](#5-write-a-java-program-to-calculate-the-area-of-a-circle)
-- [6. Write a Java program to calculate the area of a rectangle](#6-write-a-java-program-to-calculate-the-area-of-a-rectangle)
-- [7. Write a Java program to calculate the area of a triangle](#7-write-a-java-program-to-calculate-the-area-of-a-triangle)
-- [8. Write a Java program to calculate the perimeter of a circle](#8-write-a-java-program-to-calculate-the-perimeter-of-a-circle)
-- [9. Write a Java program to convert temperature from Celsius to Fahrenheit](#9-write-a-java-program-to-convert-temperature-from-celsius-to-fahrenheit)
-- [10. Write a Java program to convert temperature from Fahrenheit to Celsius](#10-write-a-java-program-to-convert-temperature-from-fahrenheit-to-celsius)
-- [11. Write a Java program to calculate Simple Interest (SI)](#11-write-a-java-program-to-calculate-simple-interest-si)
-- [12. Write a Java program to calculate Compound Interest (CI)](#12-write-a-java-program-to-calculate-compound-interest-ci)
-- [13. Write a Java program to calculate the percentage of marks](#13-write-a-java-program-to-calculate-the-percentage-of-marks)
-- [14. Write a Java program to calculate the average of N numbers](#14-write-a-java-program-to-calculate-the-average-of-n-numbers)
-- [15. Write a Java program to find the ASCII value of a character](#15-write-a-java-program-to-find-the-ascii-value-of-a-character)
-- [16. Write a Java program to display the sizes of different data types in Java](#16-write-a-java-program-to-display-the-sizes-of-different-data-types-in-java)
-- [17. Write a Java program to convert a given number of days into years, months, and days](#17-write-a-java-program-to-convert-a-given-number-of-days-into-years-months-and-days)
-- [18. Write a Java program to calculate the gross salary of an employee](#18-write-a-java-program-to-calculate-the-gross-salary-of-an-employee)
-- [19. Write a Java program to calculate the net salary of an employee](#19-write-a-java-program-to-calculate-the-net-salary-of-an-employee)
-- [20. Write a Java program to perform currency conversion](#20-write-a-java-program-to-perform-currency-conversion)
-- [21. Write a Java program to calculate Body Mass Index (BMI)](#21-write-a-java-program-to-calculate-body-mass-index-bmi)
-- [22. Write a Java program to calculate electricity bill based on units consumed](#22-write-a-java-program-to-calculate-electricity-bill-based-on-units-consumed)
-- [23. Write a Java program to calculate student grades based on marks](#23-write-a-java-program-to-calculate-student-grades-based-on-marks)
-- [24. Write a Java program to calculate age based on date of birth](#24-write-a-java-program-to-calculate-age-based-on-date-of-birth)
-- [25. Write a Java program to implement a simple calculator with basic operations](#25-write-a-java-program-to-implement-a-simple-calculator-with-basic-operations)
+- [1. Write a Java program to print 'Hello World'](#--problem-121-write-a-java-program-to-print-hello-world-easy-topic-basic-programs)
+- [2. Write a Java program to print your name](#--problem-122-write-a-java-program-to-print-your-name-easy-topic-basic-programs)
+- [3. Write a Java program to add two numbers](#--problem-123-write-a-java-program-to-add-two-numbers-easy-topic-basic-programs)
+- [4. Write a Java program to swap two numbers](#--problem-124-write-a-java-program-to-swap-two-numbers-easy-topic-basic-programs)
+- [5. Write a Java program to calculate the area of a circle](#--problem-125-write-a-java-program-to-calculate-the-area-of-a-circle-easy-topic-basic-programs)
+- [6. Write a Java program to calculate the area of a rectangle](#--problem-126-write-a-java-program-to-calculate-the-area-of-a-rectangle-easy-topic-basic-programs)
+- [7. Write a Java program to calculate the area of a triangle](#--problem-127-write-a-java-program-to-calculate-the-area-of-a-triangle-easy-topic-basic-programs)
+- [8. Write a Java program to calculate the perimeter of a circle](#--problem-128-write-a-java-program-to-calculate-the-perimeter-of-a-circle-easy-topic-basic-programs)
+- [9. Write a Java program to convert temperature from Celsius to Fahrenheit](#--problem-129-write-a-java-program-to-convert-temperature-from-celsius-to-fahrenheit-easy-topic-basic-programs)
+- [10. Write a Java program to convert temperature from Fahrenheit to Celsius](#--problem-1210-write-a-java-program-to-convert-temperature-from-fahrenheit-to-celsius-easy-topic-basic-programs)
+- [11. Write a Java program to calculate Simple Interest (SI)](#--problem-1211-write-a-java-program-to-calculate-simple-interest-si-easy-topic-basic-programs)
+- [12. Write a Java program to calculate Compound Interest (CI)](#--problem-1212-write-a-java-program-to-calculate-compound-interest-ci-easy-topic-basic-programs)
+- [13. Write a Java program to calculate the percentage of marks](#--problem-1213-write-a-java-program-to-calculate-the-percentage-of-marks-easy-topic-basic-programs)
+- [14. Write a Java program to calculate the average of N numbers](#--problem-1214-write-a-java-program-to-calculate-the-average-of-n-numbers-easy-topic-basic-programs)
+- [15. Write a Java program to find the ASCII value of a character](#--problem-1215-write-a-java-program-to-find-the-ascii-value-of-a-character-easy-topic-basic-programs)
+- [16. Write a Java program to display the sizes of different data types in Java](#--problem-1216-write-a-java-program-to-display-the-sizes-of-different-data-types-in-java-easy-topic-basic-programs)
+- [17. Write a Java program to convert a given number of days into years, months, and days](#--problem-1217-write-a-java-program-to-convert-a-given-number-of-days-into-years-months-and-days-easy-topic-basic-programs)
+- [18. Write a Java program to calculate the gross salary of an employee](#--problem-1218-write-a-java-program-to-calculate-the-gross-salary-of-an-employee-easy-topic-basic-programs)
+- [19. Write a Java program to calculate the net salary of an employee](#--problem-1219-write-a-java-program-to-calculate-the-net-salary-of-an-employee-easy-topic-basic-programs)
+- [20. Write a Java program to perform currency conversion](#--problem-1220-write-a-java-program-to-perform-currency-conversion-easy-topic-basic-programs)
+- [21. Write a Java program to calculate Body Mass Index (BMI)](#--problem-1221-write-a-java-program-to-calculate-body-mass-index-bmi-easy-topic-basic-programs)
+- [22. Write a Java program to calculate electricity bill based on units consumed](#--problem-1222-write-a-java-program-to-calculate-electricity-bill-based-on-units-consumed-easy-topic-basic-programs)
+- [23. Write a Java program to calculate student grades based on marks](#--problem-1223-write-a-java-program-to-calculate-student-grades-based-on-marks-easy-topic-basic-programs)
+- [24. Write a Java program to calculate age based on date of birth](#--problem-1224-write-a-java-program-to-calculate-age-based-on-date-of-birth-easy-topic-basic-programs)
+- [25. Write a Java program to implement a simple calculator with basic operations](#--problem-1225-write-a-java-program-to-implement-a-simple-calculator-with-basic-operations-easy-topic-basic-programs)
 
 ---
 
@@ -82,7 +82,7 @@ class Main {
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -103,7 +103,7 @@ class Main {
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -145,7 +145,7 @@ class Main {
 }
 ```
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -274,7 +274,7 @@ class Main {
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -338,7 +338,7 @@ class Main {
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -385,7 +385,7 @@ class Main {
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -429,7 +429,7 @@ class Main {
     }
 }
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -445,7 +445,7 @@ Write a Java program to implement: **calculate the perimeter of a circle**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -460,7 +460,7 @@ Write a Java program to implement: **convert temperature from Celsius to Fahrenh
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -475,7 +475,7 @@ Write a Java program to implement: **convert temperature from Fahrenheit to Cels
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -491,7 +491,7 @@ Hellow worlds
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -506,7 +506,7 @@ Write a Java program to implement: **calculate Compound Interest (CI)**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -521,7 +521,7 @@ Write a Java program to implement: **calculate the percentage of marks**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -536,7 +536,7 @@ Write a Java program to implement: **calculate the average of N numbers**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -551,7 +551,7 @@ Write a Java program to implement: **find the ASCII value of a character**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -566,7 +566,7 @@ Write a Java program to implement: **display the sizes of different data types i
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -581,7 +581,7 @@ Write a Java program to implement: **convert a given number of days into years, 
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -596,7 +596,7 @@ Write a Java program to implement: **calculate the gross salary of an employee**
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -611,7 +611,7 @@ Write a Java program to implement: **calculate the net salary of an employee**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -626,7 +626,7 @@ Write a Java program to implement: **perform currency conversion**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -641,7 +641,7 @@ Write a Java program to implement: **calculate Body Mass Index (BMI)**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -656,7 +656,7 @@ Write a Java program to implement: **calculate electricity bill based on units c
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -671,7 +671,7 @@ Write a Java program to implement: **calculate student grades based on marks**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -686,7 +686,7 @@ Write a Java program to implement: **calculate age based on date of birth**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -701,7 +701,7 @@ Write a Java program to implement: **implement a simple calculator with basic op
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents) | [📂 Main README](README.md)
 
 ---
 
@@ -715,21 +715,21 @@ Write a Java program to implement: **implement a simple calculator with basic op
 
 ## 📋 Table of Contents
 
-- [1. Write a Java program to find the largest of two numbers using ternary/relational operators](#1-write-a-java-program-to-find-the-largest-of-two-numbers-using-ternaryrelational-operators)
-- [2. Write a Java program to find the largest of three numbers](#2-write-a-java-program-to-find-the-largest-of-three-numbers)
-- [3. Write a Java program to find the smallest of three numbers](#3-write-a-java-program-to-find-the-smallest-of-three-numbers)
-- [4. Write a Java program to check if a number is even or odd](#4-write-a-java-program-to-check-if-a-number-is-even-or-odd)
-- [5. Write a Java program to check if a number is positive, negative, or zero](#5-write-a-java-program-to-check-if-a-number-is-positive-negative-or-zero)
-- [6. Write a Java program to check if a number is divisible by 5 and 11](#6-write-a-java-program-to-check-if-a-number-is-divisible-by-5-and-11)
-- [7. Write a Java program to check if one number is a multiple of another](#7-write-a-java-program-to-check-if-one-number-is-a-multiple-of-another)
-- [8. Write a Java program to calculate the power of a number using arithmetic operators](#8-write-a-java-program-to-calculate-the-power-of-a-number-using-arithmetic-operators)
-- [9. Write a Java program to calculate the square root of a number](#9-write-a-java-program-to-calculate-the-square-root-of-a-number)
-- [10. Write a Java program to calculate the cube root of a number](#10-write-a-java-program-to-calculate-the-cube-root-of-a-number)
-- [11. Write a Java program to check if a year is a leap year](#11-write-a-java-program-to-check-if-a-year-is-a-leap-year)
-- [12. Write a Java program to check voting eligibility based on age](#12-write-a-java-program-to-check-voting-eligibility-based-on-age)
-- [13. Write a Java program to calculate profit or loss](#13-write-a-java-program-to-calculate-profit-or-loss)
-- [14. Write a Java program to calculate discount on a purchase](#14-write-a-java-program-to-calculate-discount-on-a-purchase)
-- [15. Write a Java program to calculate tax based on income slabs](#15-write-a-java-program-to-calculate-tax-based-on-income-slabs)
+- [1. Write a Java program to find the largest of two numbers using ternary/relational operators](#--problem-1226-write-a-java-program-to-find-the-largest-of-two-numbers-using-ternaryrelational-operators-easy-topic-operators)
+- [2. Write a Java program to find the largest of three numbers](#--problem-1227-write-a-java-program-to-find-the-largest-of-three-numbers-easy-topic-operators)
+- [3. Write a Java program to find the smallest of three numbers](#--problem-1228-write-a-java-program-to-find-the-smallest-of-three-numbers-easy-topic-operators)
+- [4. Write a Java program to check if a number is even or odd](#--problem-1229-write-a-java-program-to-check-if-a-number-is-even-or-odd-easy-topic-operators)
+- [5. Write a Java program to check if a number is positive, negative, or zero](#--problem-1230-write-a-java-program-to-check-if-a-number-is-positive-negative-or-zero-easy-topic-operators)
+- [6. Write a Java program to check if a number is divisible by 5 and 11](#--problem-1231-write-a-java-program-to-check-if-a-number-is-divisible-by-5-and-11-easy-topic-operators)
+- [7. Write a Java program to check if one number is a multiple of another](#--problem-1232-write-a-java-program-to-check-if-one-number-is-a-multiple-of-another-easy-topic-operators)
+- [8. Write a Java program to calculate the power of a number using arithmetic operators](#--problem-1233-write-a-java-program-to-calculate-the-power-of-a-number-using-arithmetic-operators-easy-topic-operators)
+- [9. Write a Java program to calculate the square root of a number](#--problem-1234-write-a-java-program-to-calculate-the-square-root-of-a-number-easy-topic-operators)
+- [10. Write a Java program to calculate the cube root of a number](#--problem-1235-write-a-java-program-to-calculate-the-cube-root-of-a-number-easy-topic-operators)
+- [11. Write a Java program to check if a year is a leap year](#--problem-1236-write-a-java-program-to-check-if-a-year-is-a-leap-year-easy-topic-operators)
+- [12. Write a Java program to check voting eligibility based on age](#--problem-1237-write-a-java-program-to-check-voting-eligibility-based-on-age-easy-topic-operators)
+- [13. Write a Java program to calculate profit or loss](#--problem-1238-write-a-java-program-to-calculate-profit-or-loss-easy-topic-operators)
+- [14. Write a Java program to calculate discount on a purchase](#--problem-1239-write-a-java-program-to-calculate-discount-on-a-purchase-easy-topic-operators)
+- [15. Write a Java program to calculate tax based on income slabs](#--problem-1240-write-a-java-program-to-calculate-tax-based-on-income-slabs-easy-topic-operators)
 
 ---
 
@@ -744,7 +744,7 @@ Write a Java program to implement: **find the largest of two numbers using terna
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-1) | [📂 Main README](README.md)
 
 ---
 
@@ -759,7 +759,7 @@ Write a Java program to implement: **find the largest of three numbers**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-1) | [📂 Main README](README.md)
 
 ---
 
@@ -774,7 +774,7 @@ Write a Java program to implement: **find the smallest of three numbers**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-1) | [📂 Main README](README.md)
 
 ---
 
@@ -789,7 +789,7 @@ Write a Java program to implement: **check if a number is even or odd**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-1) | [📂 Main README](README.md)
 
 ---
 
@@ -804,7 +804,7 @@ Write a Java program to implement: **check if a number is positive, negative, or
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-1) | [📂 Main README](README.md)
 
 ---
 
@@ -819,7 +819,7 @@ Write a Java program to implement: **check if a number is divisible by 5 and 11*
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-1) | [📂 Main README](README.md)
 
 ---
 
@@ -834,7 +834,7 @@ Write a Java program to implement: **check if one number is a multiple of anothe
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-1) | [📂 Main README](README.md)
 
 ---
 
@@ -849,7 +849,7 @@ Write a Java program to implement: **calculate the power of a number using arith
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-1) | [📂 Main README](README.md)
 
 ---
 
@@ -864,7 +864,7 @@ Write a Java program to implement: **calculate the square root of a number**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-1) | [📂 Main README](README.md)
 
 ---
 
@@ -879,7 +879,7 @@ Write a Java program to implement: **calculate the cube root of a number**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-1) | [📂 Main README](README.md)
 
 ---
 
@@ -894,7 +894,7 @@ Write a Java program to implement: **check if a year is a leap year**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-1) | [📂 Main README](README.md)
 
 ---
 
@@ -909,7 +909,7 @@ Write a Java program to implement: **check voting eligibility based on age**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-1) | [📂 Main README](README.md)
 
 ---
 
@@ -924,7 +924,7 @@ Write a Java program to implement: **calculate profit or loss**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-1) | [📂 Main README](README.md)
 
 ---
 
@@ -939,7 +939,7 @@ Write a Java program to implement: **calculate discount on a purchase**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-1) | [📂 Main README](README.md)
 
 ---
 
@@ -954,7 +954,7 @@ Write a Java program to implement: **calculate tax based on income slabs**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-1) | [📂 Main README](README.md)
 
 ---
 
@@ -968,26 +968,26 @@ Write a Java program to implement: **calculate tax based on income slabs**.
 
 ## 📋 Table of Contents
 
-- [1. Write a Java program to check if a character is a vowel or a consonant](#1-write-a-java-program-to-check-if-a-character-is-a-vowel-or-a-consonant)
-- [2. Write a Java program to check if a character is an uppercase letter, lowercase letter, digit, or special character](#2-write-a-java-program-to-check-if-a-character-is-an-uppercase-letter-lowercase-letter-digit-or-special-character)
-- [3. Write a Java program to classify a given character](#3-write-a-java-program-to-classify-a-given-character)
-- [4. Write a Java program to calculate student grade using if-else-if ladder](#4-write-a-java-program-to-calculate-student-grade-using-if-else-if-ladder)
-- [5. Write a Java program to check blood donation eligibility based on age and weight](#5-write-a-java-program-to-check-blood-donation-eligibility-based-on-age-and-weight)
-- [6. Write a Java program to check marriage eligibility for male and female based on age](#6-write-a-java-program-to-check-marriage-eligibility-for-male-and-female-based-on-age)
-- [7. Write a Java program to check if a triangle is valid based on its angles](#7-write-a-java-program-to-check-if-a-triangle-is-valid-based-on-its-angles)
-- [8. Write a Java program to determine the type of triangle (equilateral, isosceles, or scalene) based on its sides](#8-write-a-java-program-to-determine-the-type-of-triangle-equilateral-isosceles-or-scalene-based-on-its-sides)
-- [9. Write a Java program to find the roots of a quadratic equation](#9-write-a-java-program-to-find-the-roots-of-a-quadratic-equation)
-- [10. Write a Java program to validate an ATM withdrawal request](#10-write-a-java-program-to-validate-an-atm-withdrawal-request)
-- [11. Write a Java program to authenticate a user login with username and password](#11-write-a-java-program-to-authenticate-a-user-login-with-username-and-password)
-- [12. Write a Java program to calculate electricity bill using slab-wise rates](#12-write-a-java-program-to-calculate-electricity-bill-using-slab-wise-rates)
-- [13. Write a Java program to check insurance eligibility based on health, age, and location](#13-write-a-java-program-to-check-insurance-eligibility-based-on-health-age-and-location)
-- [14. Write a Java program to check if a student passed or failed based on marks of multiple subjects](#14-write-a-java-program-to-check-if-a-student-passed-or-failed-based-on-marks-of-multiple-subjects)
-- [15. Write a Java program to check if a person is a senior citizen](#15-write-a-java-program-to-check-if-a-person-is-a-senior-citizen)
-- [16. Write a Java program to classify a person into age groups (child, teen, adult, senior)](#16-write-a-java-program-to-classify-a-person-into-age-groups-child-teen-adult-senior)
-- [17. Write a Java program to classify BMI into underweight, normal weight, overweight, and obese](#17-write-a-java-program-to-classify-bmi-into-underweight-normal-weight-overweight-and-obese)
-- [18. Write a Java program to categorize temperature (freezing, cold, warm, hot)](#18-write-a-java-program-to-categorize-temperature-freezing-cold-warm-hot)
-- [19. Write a Java program to check the sign of a number (positive, negative, or zero)](#19-write-a-java-program-to-check-the-sign-of-a-number-positive-negative-or-zero)
-- [20. Write a Java program to calculate salary bonus based on years of service and performance rating](#20-write-a-java-program-to-calculate-salary-bonus-based-on-years-of-service-and-performance-rating)
+- [1. Write a Java program to check if a character is a vowel or a consonant](#--problem-1241-write-a-java-program-to-check-if-a-character-is-a-vowel-or-a-consonant-easy-topic-if-else)
+- [2. Write a Java program to check if a character is an uppercase letter, lowercase letter, digit, or special character](#--problem-1242-write-a-java-program-to-check-if-a-character-is-an-uppercase-letter-lowercase-letter-digit-or-special-character-easy-topic-if-else)
+- [3. Write a Java program to classify a given character](#--problem-1243-write-a-java-program-to-classify-a-given-character-easy-topic-if-else)
+- [4. Write a Java program to calculate student grade using if-else-if ladder](#--problem-1244-write-a-java-program-to-calculate-student-grade-using-if-else-if-ladder-easy-topic-if-else)
+- [5. Write a Java program to check blood donation eligibility based on age and weight](#--problem-1245-write-a-java-program-to-check-blood-donation-eligibility-based-on-age-and-weight-easy-topic-if-else)
+- [6. Write a Java program to check marriage eligibility for male and female based on age](#--problem-1246-write-a-java-program-to-check-marriage-eligibility-for-male-and-female-based-on-age-easy-topic-if-else)
+- [7. Write a Java program to check if a triangle is valid based on its angles](#--problem-1247-write-a-java-program-to-check-if-a-triangle-is-valid-based-on-its-angles-easy-topic-if-else)
+- [8. Write a Java program to determine the type of triangle (equilateral, isosceles, or scalene) based on its sides](#--problem-1248-write-a-java-program-to-determine-the-type-of-triangle-equilateral-isosceles-or-scalene-based-on-its-sides-easy-topic-if-else)
+- [9. Write a Java program to find the roots of a quadratic equation](#--problem-1249-write-a-java-program-to-find-the-roots-of-a-quadratic-equation-easy-topic-if-else)
+- [10. Write a Java program to validate an ATM withdrawal request](#--problem-1250-write-a-java-program-to-validate-an-atm-withdrawal-request-easy-topic-if-else)
+- [11. Write a Java program to authenticate a user login with username and password](#--problem-1251-write-a-java-program-to-authenticate-a-user-login-with-username-and-password-easy-topic-if-else)
+- [12. Write a Java program to calculate electricity bill using slab-wise rates](#--problem-1252-write-a-java-program-to-calculate-electricity-bill-using-slab-wise-rates-easy-topic-if-else)
+- [13. Write a Java program to check insurance eligibility based on health, age, and location](#--problem-1253-write-a-java-program-to-check-insurance-eligibility-based-on-health-age-and-location-easy-topic-if-else)
+- [14. Write a Java program to check if a student passed or failed based on marks of multiple subjects](#--problem-1254-write-a-java-program-to-check-if-a-student-passed-or-failed-based-on-marks-of-multiple-subjects-easy-topic-if-else)
+- [15. Write a Java program to check if a person is a senior citizen](#--problem-1255-write-a-java-program-to-check-if-a-person-is-a-senior-citizen-easy-topic-if-else)
+- [16. Write a Java program to classify a person into age groups (child, teen, adult, senior)](#--problem-1256-write-a-java-program-to-classify-a-person-into-age-groups-child-teen-adult-senior-easy-topic-if-else)
+- [17. Write a Java program to classify BMI into underweight, normal weight, overweight, and obese](#--problem-1257-write-a-java-program-to-classify-bmi-into-underweight-normal-weight-overweight-and-obese-easy-topic-if-else)
+- [18. Write a Java program to categorize temperature (freezing, cold, warm, hot)](#--problem-1258-write-a-java-program-to-categorize-temperature-freezing-cold-warm-hot-easy-topic-if-else)
+- [19. Write a Java program to check the sign of a number (positive, negative, or zero)](#--problem-1259-write-a-java-program-to-check-the-sign-of-a-number-positive-negative-or-zero-easy-topic-if-else)
+- [20. Write a Java program to calculate salary bonus based on years of service and performance rating](#--problem-1260-write-a-java-program-to-calculate-salary-bonus-based-on-years-of-service-and-performance-rating-easy-topic-if-else)
 
 ---
 
@@ -1002,7 +1002,7 @@ Write a Java program to implement: **check if a character is a vowel or a conson
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-2) | [📂 Main README](README.md)
 
 ---
 
@@ -1017,7 +1017,7 @@ Write a Java program to implement: **check if a character is an uppercase letter
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-2) | [📂 Main README](README.md)
 
 ---
 
@@ -1032,7 +1032,7 @@ Write a Java program to implement: **classify a given character**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-2) | [📂 Main README](README.md)
 
 ---
 
@@ -1047,7 +1047,7 @@ Write a Java program to implement: **calculate student grade using if-else-if la
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-2) | [📂 Main README](README.md)
 
 ---
 
@@ -1062,7 +1062,7 @@ Write a Java program to implement: **check blood donation eligibility based on a
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-2) | [📂 Main README](README.md)
 
 ---
 
@@ -1077,7 +1077,7 @@ Write a Java program to implement: **check marriage eligibility for male and fem
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-2) | [📂 Main README](README.md)
 
 ---
 
@@ -1092,7 +1092,7 @@ Write a Java program to implement: **check if a triangle is valid based on its a
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-2) | [📂 Main README](README.md)
 
 ---
 
@@ -1107,7 +1107,7 @@ Write a Java program to implement: **determine the type of triangle (equilateral
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-2) | [📂 Main README](README.md)
 
 ---
 
@@ -1122,7 +1122,7 @@ Write a Java program to implement: **find the roots of a quadratic equation**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-2) | [📂 Main README](README.md)
 
 ---
 
@@ -1137,7 +1137,7 @@ Write a Java program to implement: **validate an ATM withdrawal request**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-2) | [📂 Main README](README.md)
 
 ---
 
@@ -1152,7 +1152,7 @@ Write a Java program to implement: **authenticate a user login with username and
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-2) | [📂 Main README](README.md)
 
 ---
 
@@ -1167,7 +1167,7 @@ Write a Java program to implement: **calculate electricity bill using slab-wise 
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-2) | [📂 Main README](README.md)
 
 ---
 
@@ -1182,7 +1182,7 @@ Write a Java program to implement: **check insurance eligibility based on health
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-2) | [📂 Main README](README.md)
 
 ---
 
@@ -1197,7 +1197,7 @@ Write a Java program to implement: **check if a student passed or failed based o
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-2) | [📂 Main README](README.md)
 
 ---
 
@@ -1212,7 +1212,7 @@ Write a Java program to implement: **check if a person is a senior citizen**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-2) | [📂 Main README](README.md)
 
 ---
 
@@ -1227,7 +1227,7 @@ Write a Java program to implement: **classify a person into age groups (child, t
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-2) | [📂 Main README](README.md)
 
 ---
 
@@ -1242,7 +1242,7 @@ Write a Java program to implement: **classify BMI into underweight, normal weigh
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-2) | [📂 Main README](README.md)
 
 ---
 
@@ -1257,7 +1257,7 @@ Write a Java program to implement: **categorize temperature (freezing, cold, war
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-2) | [📂 Main README](README.md)
 
 ---
 
@@ -1272,7 +1272,7 @@ Write a Java program to implement: **check the sign of a number (positive, negat
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-2) | [📂 Main README](README.md)
 
 ---
 
@@ -1287,7 +1287,7 @@ Write a Java program to implement: **calculate salary bonus based on years of se
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-2) | [📂 Main README](README.md)
 
 ---
 
@@ -1301,36 +1301,36 @@ Write a Java program to implement: **calculate salary bonus based on years of se
 
 ## 📋 Table of Contents
 
-- [1. Write a Java program to print numbers from 1 to N using a loop](#1-write-a-java-program-to-print-numbers-from-1-to-n-using-a-loop)
-- [2. Write a Java program to print numbers from N to 1 using a loop](#2-write-a-java-program-to-print-numbers-from-n-to-1-using-a-loop)
-- [3. Write a Java program to find the sum of first N natural numbers](#3-write-a-java-program-to-find-the-sum-of-first-n-natural-numbers)
-- [4. Write a Java program to find the product of first N numbers](#4-write-a-java-program-to-find-the-product-of-first-n-numbers)
-- [5. Write a Java program to print the multiplication table of a given number](#5-write-a-java-program-to-print-the-multiplication-table-of-a-given-number)
-- [6. Write a Java program to calculate the factorial of a number](#6-write-a-java-program-to-calculate-the-factorial-of-a-number)
-- [7. Write a Java program to print the Fibonacci series up to N terms](#7-write-a-java-program-to-print-the-fibonacci-series-up-to-n-terms)
-- [8. Write a Java program to reverse a given number](#8-write-a-java-program-to-reverse-a-given-number)
-- [9. Write a Java program to check if a number is a palindrome](#9-write-a-java-program-to-check-if-a-number-is-a-palindrome)
-- [10. Write a Java program to check if a number is an Armstrong number](#10-write-a-java-program-to-check-if-a-number-is-an-armstrong-number)
-- [11. Write a Java program to check if a number is a Strong number](#11-write-a-java-program-to-check-if-a-number-is-a-strong-number)
-- [12. Write a Java program to check if a number is a Perfect number](#12-write-a-java-program-to-check-if-a-number-is-a-perfect-number)
-- [13. Write a Java program to check if a number is a Prime number](#13-write-a-java-program-to-check-if-a-number-is-a-prime-number)
-- [14. Write a Java program to print all prime numbers in a given range](#14-write-a-java-program-to-print-all-prime-numbers-in-a-given-range)
-- [15. Write a Java program to find the Greatest Common Divisor (GCD) of two numbers](#15-write-a-java-program-to-find-the-greatest-common-divisor-gcd-of-two-numbers)
-- [16. Write a Java program to find the Least Common Multiple (LCM) of two numbers](#16-write-a-java-program-to-find-the-least-common-multiple-lcm-of-two-numbers)
-- [17. Write a Java program to find the sum of digits of a number](#17-write-a-java-program-to-find-the-sum-of-digits-of-a-number)
-- [18. Write a Java program to find the product of digits of a number](#18-write-a-java-program-to-find-the-product-of-digits-of-a-number)
-- [19. Write a Java program to count the number of digits in an integer](#19-write-a-java-program-to-count-the-number-of-digits-in-an-integer)
-- [20. Write a Java program to convert a binary number to decimal](#20-write-a-java-program-to-convert-a-binary-number-to-decimal)
-- [21. Write a Java program to convert a decimal number to binary](#21-write-a-java-program-to-convert-a-decimal-number-to-binary)
-- [22. Write a Java program to convert a decimal number to octal](#22-write-a-java-program-to-convert-a-decimal-number-to-octal)
-- [23. Write a Java program to convert a decimal number to hexadecimal](#23-write-a-java-program-to-convert-a-decimal-number-to-hexadecimal)
-- [24. Write a Java program to find the generic root (single digit sum) of a number](#24-write-a-java-program-to-find-the-generic-root-single-digit-sum-of-a-number)
-- [25. Write a Java program to check if a number is a Harshad number](#25-write-a-java-program-to-check-if-a-number-is-a-harshad-number)
-- [26. Write a Java program to check if a number is a Neon number](#26-write-a-java-program-to-check-if-a-number-is-a-neon-number)
-- [27. Write a Java program to check if a number is an Automorphic number](#27-write-a-java-program-to-check-if-a-number-is-an-automorphic-number)
-- [28. Write a Java program to check if a number is a Spy number](#28-write-a-java-program-to-check-if-a-number-is-a-spy-number)
-- [29. Write a Java program to check if a number is a Peterson number](#29-write-a-java-program-to-check-if-a-number-is-a-peterson-number)
-- [30. Write a Java program to check if a number is a Magic number](#30-write-a-java-program-to-check-if-a-number-is-a-magic-number)
+- [1. Write a Java program to print numbers from 1 to N using a loop](#--problem-1261-write-a-java-program-to-print-numbers-from-1-to-n-using-a-loop-easy-topic-loops)
+- [2. Write a Java program to print numbers from N to 1 using a loop](#--problem-1262-write-a-java-program-to-print-numbers-from-n-to-1-using-a-loop-easy-topic-loops)
+- [3. Write a Java program to find the sum of first N natural numbers](#--problem-1263-write-a-java-program-to-find-the-sum-of-first-n-natural-numbers-easy-topic-loops)
+- [4. Write a Java program to find the product of first N numbers](#--problem-1264-write-a-java-program-to-find-the-product-of-first-n-numbers-easy-topic-loops)
+- [5. Write a Java program to print the multiplication table of a given number](#--problem-1265-write-a-java-program-to-print-the-multiplication-table-of-a-given-number-easy-topic-loops)
+- [6. Write a Java program to calculate the factorial of a number](#--problem-1266-write-a-java-program-to-calculate-the-factorial-of-a-number-easy-topic-loops)
+- [7. Write a Java program to print the Fibonacci series up to N terms](#--problem-1267-write-a-java-program-to-print-the-fibonacci-series-up-to-n-terms-easy-topic-loops)
+- [8. Write a Java program to reverse a given number](#--problem-1268-write-a-java-program-to-reverse-a-given-number-easy-topic-loops)
+- [9. Write a Java program to check if a number is a palindrome](#--problem-1269-write-a-java-program-to-check-if-a-number-is-a-palindrome-easy-topic-loops)
+- [10. Write a Java program to check if a number is an Armstrong number](#--problem-1270-write-a-java-program-to-check-if-a-number-is-an-armstrong-number-easy-topic-loops)
+- [11. Write a Java program to check if a number is a Strong number](#--problem-1271-write-a-java-program-to-check-if-a-number-is-a-strong-number-easy-topic-loops)
+- [12. Write a Java program to check if a number is a Perfect number](#--problem-1272-write-a-java-program-to-check-if-a-number-is-a-perfect-number-easy-topic-loops)
+- [13. Write a Java program to check if a number is a Prime number](#--problem-1273-write-a-java-program-to-check-if-a-number-is-a-prime-number-easy-topic-loops)
+- [14. Write a Java program to print all prime numbers in a given range](#--problem-1274-write-a-java-program-to-print-all-prime-numbers-in-a-given-range-easy-topic-loops)
+- [15. Write a Java program to find the Greatest Common Divisor (GCD) of two numbers](#--problem-1275-write-a-java-program-to-find-the-greatest-common-divisor-gcd-of-two-numbers-easy-topic-loops)
+- [16. Write a Java program to find the Least Common Multiple (LCM) of two numbers](#--problem-1276-write-a-java-program-to-find-the-least-common-multiple-lcm-of-two-numbers-easy-topic-loops)
+- [17. Write a Java program to find the sum of digits of a number](#--problem-1277-write-a-java-program-to-find-the-sum-of-digits-of-a-number-easy-topic-loops)
+- [18. Write a Java program to find the product of digits of a number](#--problem-1278-write-a-java-program-to-find-the-product-of-digits-of-a-number-easy-topic-loops)
+- [19. Write a Java program to count the number of digits in an integer](#--problem-1279-write-a-java-program-to-count-the-number-of-digits-in-an-integer-easy-topic-loops)
+- [20. Write a Java program to convert a binary number to decimal](#--problem-1280-write-a-java-program-to-convert-a-binary-number-to-decimal-easy-topic-loops)
+- [21. Write a Java program to convert a decimal number to binary](#--problem-1281-write-a-java-program-to-convert-a-decimal-number-to-binary-easy-topic-loops)
+- [22. Write a Java program to convert a decimal number to octal](#--problem-1282-write-a-java-program-to-convert-a-decimal-number-to-octal-easy-topic-loops)
+- [23. Write a Java program to convert a decimal number to hexadecimal](#--problem-1283-write-a-java-program-to-convert-a-decimal-number-to-hexadecimal-easy-topic-loops)
+- [24. Write a Java program to find the generic root (single digit sum) of a number](#--problem-1284-write-a-java-program-to-find-the-generic-root-single-digit-sum-of-a-number-easy-topic-loops)
+- [25. Write a Java program to check if a number is a Harshad number](#--problem-1285-write-a-java-program-to-check-if-a-number-is-a-harshad-number-easy-topic-loops)
+- [26. Write a Java program to check if a number is a Neon number](#--problem-1286-write-a-java-program-to-check-if-a-number-is-a-neon-number-easy-topic-loops)
+- [27. Write a Java program to check if a number is an Automorphic number](#--problem-1287-write-a-java-program-to-check-if-a-number-is-an-automorphic-number-easy-topic-loops)
+- [28. Write a Java program to check if a number is a Spy number](#--problem-1288-write-a-java-program-to-check-if-a-number-is-a-spy-number-easy-topic-loops)
+- [29. Write a Java program to check if a number is a Peterson number](#--problem-1289-write-a-java-program-to-check-if-a-number-is-a-peterson-number-easy-topic-loops)
+- [30. Write a Java program to check if a number is a Magic number](#--problem-1290-write-a-java-program-to-check-if-a-number-is-a-magic-number-easy-topic-loops)
 
 ---
 
@@ -1345,7 +1345,7 @@ Write a Java program to implement: **print numbers from 1 to N using a loop**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1360,7 +1360,7 @@ Write a Java program to implement: **print numbers from N to 1 using a loop**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1375,7 +1375,7 @@ Write a Java program to implement: **find the sum of first N natural numbers**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1390,7 +1390,7 @@ Write a Java program to implement: **find the product of first N numbers**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1405,7 +1405,7 @@ Write a Java program to implement: **print the multiplication table of a given n
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1420,7 +1420,7 @@ Write a Java program to implement: **calculate the factorial of a number**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1435,7 +1435,7 @@ Write a Java program to implement: **print the Fibonacci series up to N terms**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1450,7 +1450,7 @@ Write a Java program to implement: **reverse a given number**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1465,7 +1465,7 @@ Write a Java program to implement: **check if a number is a palindrome**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1480,7 +1480,7 @@ Write a Java program to implement: **check if a number is an Armstrong number**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1495,7 +1495,7 @@ Write a Java program to implement: **check if a number is a Strong number**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1510,7 +1510,7 @@ Write a Java program to implement: **check if a number is a Perfect number**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1525,7 +1525,7 @@ Write a Java program to implement: **check if a number is a Prime number**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1540,7 +1540,7 @@ Write a Java program to implement: **print all prime numbers in a given range**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1555,7 +1555,7 @@ Write a Java program to implement: **find the Greatest Common Divisor (GCD) of t
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1570,7 +1570,7 @@ Write a Java program to implement: **find the Least Common Multiple (LCM) of two
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1585,7 +1585,7 @@ Write a Java program to implement: **find the sum of digits of a number**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1600,7 +1600,7 @@ Write a Java program to implement: **find the product of digits of a number**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1615,7 +1615,7 @@ Write a Java program to implement: **count the number of digits in an integer**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1630,7 +1630,7 @@ Write a Java program to implement: **convert a binary number to decimal**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1645,7 +1645,7 @@ Write a Java program to implement: **convert a decimal number to binary**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1660,7 +1660,7 @@ Write a Java program to implement: **convert a decimal number to octal**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1675,7 +1675,7 @@ Write a Java program to implement: **convert a decimal number to hexadecimal**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1690,7 +1690,7 @@ Write a Java program to implement: **find the generic root (single digit sum) of
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1705,7 +1705,7 @@ Write a Java program to implement: **check if a number is a Harshad number**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1720,7 +1720,7 @@ Write a Java program to implement: **check if a number is a Neon number**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1735,7 +1735,7 @@ Write a Java program to implement: **check if a number is an Automorphic number*
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1750,7 +1750,7 @@ Write a Java program to implement: **check if a number is a Spy number**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1765,7 +1765,7 @@ Write a Java program to implement: **check if a number is a Peterson number**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1780,7 +1780,7 @@ Write a Java program to implement: **check if a number is a Magic number**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-3) | [📂 Main README](README.md)
 
 ---
 
@@ -1794,46 +1794,46 @@ Write a Java program to implement: **check if a number is a Magic number**.
 
 ## 📋 Table of Contents
 
-- [1. Write a Java program to print a Square Star pattern](#1-write-a-java-program-to-print-a-square-star-pattern)
-- [2. Write a Java program to print a Hollow Square pattern](#2-write-a-java-program-to-print-a-hollow-square-pattern)
-- [3. Write a Java program to print a Rectangle pattern](#3-write-a-java-program-to-print-a-rectangle-pattern)
-- [4. Write a Java program to print a Hollow Rectangle pattern](#4-write-a-java-program-to-print-a-hollow-rectangle-pattern)
-- [5. Write a Java program to print a Left Triangle pattern](#5-write-a-java-program-to-print-a-left-triangle-pattern)
-- [6. Write a Java program to print a Right Triangle pattern](#6-write-a-java-program-to-print-a-right-triangle-pattern)
-- [7. Write a Java program to print a Pyramid pattern](#7-write-a-java-program-to-print-a-pyramid-pattern)
-- [8. Write a Java program to print an Inverted Pyramid pattern](#8-write-a-java-program-to-print-an-inverted-pyramid-pattern)
-- [9. Write a Java program to print a Diamond pattern](#9-write-a-java-program-to-print-a-diamond-pattern)
-- [10. Write a Java program to print a Hollow Diamond pattern](#10-write-a-java-program-to-print-a-hollow-diamond-pattern)
-- [11. Write a Java program to print a Butterfly pattern](#11-write-a-java-program-to-print-a-butterfly-pattern)
-- [12. Write a Java program to print a Sandglass pattern](#12-write-a-java-program-to-print-a-sandglass-pattern)
-- [13. Write a Java program to print an Hourglass pattern](#13-write-a-java-program-to-print-an-hourglass-pattern)
-- [14. Write a Java program to print Pascal's Triangle](#14-write-a-java-program-to-print-pascals-triangle)
-- [15. Write a Java program to print Floyd's Triangle](#15-write-a-java-program-to-print-floyds-triangle)
-- [16. Write a Java program to print a Number Pyramid pattern](#16-write-a-java-program-to-print-a-number-pyramid-pattern)
-- [17. Write a Java program to print an Alphabet Pyramid pattern](#17-write-a-java-program-to-print-an-alphabet-pyramid-pattern)
-- [18. Write a Java program to print a Hollow Pyramid pattern](#18-write-a-java-program-to-print-a-hollow-pyramid-pattern)
-- [19. Write a Java program to print a Cross pattern](#19-write-a-java-program-to-print-a-cross-pattern)
-- [20. Write a Java program to print an X pattern](#20-write-a-java-program-to-print-an-x-pattern)
-- [21. Write a Java program to print a Heart pattern](#21-write-a-java-program-to-print-a-heart-pattern)
-- [22. Write a Java program to print a Christmas Tree pattern](#22-write-a-java-program-to-print-a-christmas-tree-pattern)
-- [23. Write a Java program to print an Arrow pattern](#23-write-a-java-program-to-print-an-arrow-pattern)
-- [24. Write a Java program to print a Zig-Zag pattern](#24-write-a-java-program-to-print-a-zig-zag-pattern)
-- [25. Write a Java program to print a Number Diamond pattern](#25-write-a-java-program-to-print-a-number-diamond-pattern)
-- [26. Write a Java program to print a Binary Triangle pattern](#26-write-a-java-program-to-print-a-binary-triangle-pattern)
-- [27. Write a Java program to print a Character Triangle pattern](#27-write-a-java-program-to-print-a-character-triangle-pattern)
-- [28. Write a Java program to print a Hollow Butterfly pattern](#28-write-a-java-program-to-print-a-hollow-butterfly-pattern)
-- [29. Write a Java program to print a Rhombus pattern](#29-write-a-java-program-to-print-a-rhombus-pattern)
-- [30. Write a Java program to print a Hollow Rhombus pattern](#30-write-a-java-program-to-print-a-hollow-rhombus-pattern)
-- [31. Write a Java program to print a Spiral Square pattern](#31-write-a-java-program-to-print-a-spiral-square-pattern)
-- [32. Write a Java program to print a Numeric Square pattern](#32-write-a-java-program-to-print-a-numeric-square-pattern)
-- [33. Write a Java program to print a Concentric Pattern](#33-write-a-java-program-to-print-a-concentric-pattern)
-- [34. Write a Java program to print a Reverse Pyramid pattern](#34-write-a-java-program-to-print-a-reverse-pyramid-pattern)
-- [35. Write a Java program to print an Increment Pattern](#35-write-a-java-program-to-print-an-increment-pattern)
-- [36. Write a Java program to print a Decrement Pattern](#36-write-a-java-program-to-print-a-decrement-pattern)
-- [37. Write a Java program to print a Snake Pattern](#37-write-a-java-program-to-print-a-snake-pattern)
-- [38. Write a Java program to print a Wave Pattern](#38-write-a-java-program-to-print-a-wave-pattern)
-- [39. Write a Java program to print a Staircase Pattern](#39-write-a-java-program-to-print-a-staircase-pattern)
-- [40. Write a Java program to implement a Custom Pattern Generator](#40-write-a-java-program-to-implement-a-custom-pattern-generator)
+- [1. Write a Java program to print a Square Star pattern](#--problem-1291-write-a-java-program-to-print-a-square-star-pattern-medium-topic-patterns)
+- [2. Write a Java program to print a Hollow Square pattern](#--problem-1292-write-a-java-program-to-print-a-hollow-square-pattern-medium-topic-patterns)
+- [3. Write a Java program to print a Rectangle pattern](#--problem-1293-write-a-java-program-to-print-a-rectangle-pattern-medium-topic-patterns)
+- [4. Write a Java program to print a Hollow Rectangle pattern](#--problem-1294-write-a-java-program-to-print-a-hollow-rectangle-pattern-medium-topic-patterns)
+- [5. Write a Java program to print a Left Triangle pattern](#--problem-1295-write-a-java-program-to-print-a-left-triangle-pattern-medium-topic-patterns)
+- [6. Write a Java program to print a Right Triangle pattern](#--problem-1296-write-a-java-program-to-print-a-right-triangle-pattern-medium-topic-patterns)
+- [7. Write a Java program to print a Pyramid pattern](#--problem-1297-write-a-java-program-to-print-a-pyramid-pattern-medium-topic-patterns)
+- [8. Write a Java program to print an Inverted Pyramid pattern](#--problem-1298-write-a-java-program-to-print-an-inverted-pyramid-pattern-medium-topic-patterns)
+- [9. Write a Java program to print a Diamond pattern](#--problem-1299-write-a-java-program-to-print-a-diamond-pattern-medium-topic-patterns)
+- [10. Write a Java program to print a Hollow Diamond pattern](#--problem-12100-write-a-java-program-to-print-a-hollow-diamond-pattern-medium-topic-patterns)
+- [11. Write a Java program to print a Butterfly pattern](#--problem-12101-write-a-java-program-to-print-a-butterfly-pattern-medium-topic-patterns)
+- [12. Write a Java program to print a Sandglass pattern](#--problem-12102-write-a-java-program-to-print-a-sandglass-pattern-medium-topic-patterns)
+- [13. Write a Java program to print an Hourglass pattern](#--problem-12103-write-a-java-program-to-print-an-hourglass-pattern-medium-topic-patterns)
+- [14. Write a Java program to print Pascal's Triangle](#--problem-12104-write-a-java-program-to-print-pascals-triangle-medium-topic-patterns)
+- [15. Write a Java program to print Floyd's Triangle](#--problem-12105-write-a-java-program-to-print-floyds-triangle-medium-topic-patterns)
+- [16. Write a Java program to print a Number Pyramid pattern](#--problem-12106-write-a-java-program-to-print-a-number-pyramid-pattern-medium-topic-patterns)
+- [17. Write a Java program to print an Alphabet Pyramid pattern](#--problem-12107-write-a-java-program-to-print-an-alphabet-pyramid-pattern-medium-topic-patterns)
+- [18. Write a Java program to print a Hollow Pyramid pattern](#--problem-12108-write-a-java-program-to-print-a-hollow-pyramid-pattern-medium-topic-patterns)
+- [19. Write a Java program to print a Cross pattern](#--problem-12109-write-a-java-program-to-print-a-cross-pattern-medium-topic-patterns)
+- [20. Write a Java program to print an X pattern](#--problem-12110-write-a-java-program-to-print-an-x-pattern-medium-topic-patterns)
+- [21. Write a Java program to print a Heart pattern](#--problem-12111-write-a-java-program-to-print-a-heart-pattern-medium-topic-patterns)
+- [22. Write a Java program to print a Christmas Tree pattern](#--problem-12112-write-a-java-program-to-print-a-christmas-tree-pattern-medium-topic-patterns)
+- [23. Write a Java program to print an Arrow pattern](#--problem-12113-write-a-java-program-to-print-an-arrow-pattern-medium-topic-patterns)
+- [24. Write a Java program to print a Zig-Zag pattern](#--problem-12114-write-a-java-program-to-print-a-zig-zag-pattern-medium-topic-patterns)
+- [25. Write a Java program to print a Number Diamond pattern](#--problem-12115-write-a-java-program-to-print-a-number-diamond-pattern-medium-topic-patterns)
+- [26. Write a Java program to print a Binary Triangle pattern](#--problem-12116-write-a-java-program-to-print-a-binary-triangle-pattern-medium-topic-patterns)
+- [27. Write a Java program to print a Character Triangle pattern](#--problem-12117-write-a-java-program-to-print-a-character-triangle-pattern-medium-topic-patterns)
+- [28. Write a Java program to print a Hollow Butterfly pattern](#--problem-12118-write-a-java-program-to-print-a-hollow-butterfly-pattern-medium-topic-patterns)
+- [29. Write a Java program to print a Rhombus pattern](#--problem-12119-write-a-java-program-to-print-a-rhombus-pattern-medium-topic-patterns)
+- [30. Write a Java program to print a Hollow Rhombus pattern](#--problem-12120-write-a-java-program-to-print-a-hollow-rhombus-pattern-medium-topic-patterns)
+- [31. Write a Java program to print a Spiral Square pattern](#--problem-12121-write-a-java-program-to-print-a-spiral-square-pattern-medium-topic-patterns)
+- [32. Write a Java program to print a Numeric Square pattern](#--problem-12122-write-a-java-program-to-print-a-numeric-square-pattern-medium-topic-patterns)
+- [33. Write a Java program to print a Concentric Pattern](#--problem-12123-write-a-java-program-to-print-a-concentric-pattern-medium-topic-patterns)
+- [34. Write a Java program to print a Reverse Pyramid pattern](#--problem-12124-write-a-java-program-to-print-a-reverse-pyramid-pattern-medium-topic-patterns)
+- [35. Write a Java program to print an Increment Pattern](#--problem-12125-write-a-java-program-to-print-an-increment-pattern-medium-topic-patterns)
+- [36. Write a Java program to print a Decrement Pattern](#--problem-12126-write-a-java-program-to-print-a-decrement-pattern-medium-topic-patterns)
+- [37. Write a Java program to print a Snake Pattern](#--problem-12127-write-a-java-program-to-print-a-snake-pattern-medium-topic-patterns)
+- [38. Write a Java program to print a Wave Pattern](#--problem-12128-write-a-java-program-to-print-a-wave-pattern-medium-topic-patterns)
+- [39. Write a Java program to print a Staircase Pattern](#--problem-12129-write-a-java-program-to-print-a-staircase-pattern-medium-topic-patterns)
+- [40. Write a Java program to implement a Custom Pattern Generator](#--problem-12130-write-a-java-program-to-implement-a-custom-pattern-generator-medium-topic-patterns)
 
 ---
 
@@ -1848,7 +1848,7 @@ Write a Java program to implement: **print a Square Star pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -1863,7 +1863,7 @@ Write a Java program to implement: **print a Hollow Square pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -1878,7 +1878,7 @@ Write a Java program to implement: **print a Rectangle pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -1893,7 +1893,7 @@ Write a Java program to implement: **print a Hollow Rectangle pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -1908,7 +1908,7 @@ Write a Java program to implement: **print a Left Triangle pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -1923,7 +1923,7 @@ Write a Java program to implement: **print a Right Triangle pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -1938,7 +1938,7 @@ Write a Java program to implement: **print a Pyramid pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -1953,7 +1953,7 @@ Write a Java program to implement: **print an Inverted Pyramid pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -1968,7 +1968,7 @@ Write a Java program to implement: **print a Diamond pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -1983,7 +1983,7 @@ Write a Java program to implement: **print a Hollow Diamond pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -1998,7 +1998,7 @@ Write a Java program to implement: **print a Butterfly pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2013,7 +2013,7 @@ Write a Java program to implement: **print a Sandglass pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2028,7 +2028,7 @@ Write a Java program to implement: **print an Hourglass pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2043,7 +2043,7 @@ Write a Java program to implement: **print Pascal's Triangle**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2058,7 +2058,7 @@ Write a Java program to implement: **print Floyd's Triangle**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2073,7 +2073,7 @@ Write a Java program to implement: **print a Number Pyramid pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2088,7 +2088,7 @@ Write a Java program to implement: **print an Alphabet Pyramid pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2103,7 +2103,7 @@ Write a Java program to implement: **print a Hollow Pyramid pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2118,7 +2118,7 @@ Write a Java program to implement: **print a Cross pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2133,7 +2133,7 @@ Write a Java program to implement: **print an X pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2148,7 +2148,7 @@ Write a Java program to implement: **print a Heart pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2163,7 +2163,7 @@ Write a Java program to implement: **print a Christmas Tree pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2178,7 +2178,7 @@ Write a Java program to implement: **print an Arrow pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2193,7 +2193,7 @@ Write a Java program to implement: **print a Zig-Zag pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2208,7 +2208,7 @@ Write a Java program to implement: **print a Number Diamond pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2223,7 +2223,7 @@ Write a Java program to implement: **print a Binary Triangle pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2238,7 +2238,7 @@ Write a Java program to implement: **print a Character Triangle pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2253,7 +2253,7 @@ Write a Java program to implement: **print a Hollow Butterfly pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2268,7 +2268,7 @@ Write a Java program to implement: **print a Rhombus pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2283,7 +2283,7 @@ Write a Java program to implement: **print a Hollow Rhombus pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2298,7 +2298,7 @@ Write a Java program to implement: **print a Spiral Square pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2313,7 +2313,7 @@ Write a Java program to implement: **print a Numeric Square pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2328,7 +2328,7 @@ Write a Java program to implement: **print a Concentric Pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2343,7 +2343,7 @@ Write a Java program to implement: **print a Reverse Pyramid pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2358,7 +2358,7 @@ Write a Java program to implement: **print an Increment Pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2373,7 +2373,7 @@ Write a Java program to implement: **print a Decrement Pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2388,7 +2388,7 @@ Write a Java program to implement: **print a Snake Pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2403,7 +2403,7 @@ Write a Java program to implement: **print a Wave Pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2418,7 +2418,7 @@ Write a Java program to implement: **print a Staircase Pattern**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2433,7 +2433,7 @@ Write a Java program to implement: **implement a Custom Pattern Generator**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-4) | [📂 Main README](README.md)
 
 ---
 
@@ -2447,36 +2447,36 @@ Write a Java program to implement: **implement a Custom Pattern Generator**.
 
 ## 📋 Table of Contents
 
-- [1. Write a Java program to find the largest element in an array](#1-write-a-java-program-to-find-the-largest-element-in-an-array)
-- [2. Write a Java program to find the smallest element in an array](#2-write-a-java-program-to-find-the-smallest-element-in-an-array)
-- [3. Write a Java program to find the second largest element in an array](#3-write-a-java-program-to-find-the-second-largest-element-in-an-array)
-- [4. Write a Java program to find the second smallest element in an array](#4-write-a-java-program-to-find-the-second-smallest-element-in-an-array)
-- [5. Write a Java program to find the sum of all elements in an array](#5-write-a-java-program-to-find-the-sum-of-all-elements-in-an-array)
-- [6. Write a Java program to find the average of elements in an array](#6-write-a-java-program-to-find-the-average-of-elements-in-an-array)
-- [7. Write a Java program to reverse an array](#7-write-a-java-program-to-reverse-an-array)
-- [8. Write a Java program to copy all elements of one array to another array](#8-write-a-java-program-to-copy-all-elements-of-one-array-to-another-array)
-- [9. Write a Java program to merge two arrays into a third array](#9-write-a-java-program-to-merge-two-arrays-into-a-third-array)
-- [10. Write a Java program to insert an element at a specific position in an array](#10-write-a-java-program-to-insert-an-element-at-a-specific-position-in-an-array)
-- [11. Write a Java program to delete an element at a specific position in an array](#11-write-a-java-program-to-delete-an-element-at-a-specific-position-in-an-array)
-- [12. Write a Java program to remove duplicates from an array](#12-write-a-java-program-to-remove-duplicates-from-an-array)
-- [13. Write a Java program to find the frequency of each element in an array](#13-write-a-java-program-to-find-the-frequency-of-each-element-in-an-array)
-- [14. Write a Java program to find the missing number in an array containing numbers from 1 to N](#14-write-a-java-program-to-find-the-missing-number-in-an-array-containing-numbers-from-1-to-n)
-- [15. Write a Java program to find duplicate numbers in an array](#15-write-a-java-program-to-find-duplicate-numbers-in-an-array)
-- [16. Write a Java program to rotate an array to the left](#16-write-a-java-program-to-rotate-an-array-to-the-left)
-- [17. Write a Java program to rotate an array to the right](#17-write-a-java-program-to-rotate-an-array-to-the-right)
-- [18. Write a Java program to sort an array in ascending order](#18-write-a-java-program-to-sort-an-array-in-ascending-order)
-- [19. Write a Java program to sort an array in descending order](#19-write-a-java-program-to-sort-an-array-in-descending-order)
-- [20. Write a Java program to separate even and odd numbers in an array](#20-write-a-java-program-to-separate-even-and-odd-numbers-in-an-array)
-- [21. Write a Java program to move all zeros to the end of an array](#21-write-a-java-program-to-move-all-zeros-to-the-end-of-an-array)
-- [22. Write a Java program to find the union of two arrays](#22-write-a-java-program-to-find-the-union-of-two-arrays)
-- [23. Write a Java program to find the intersection of two arrays](#23-write-a-java-program-to-find-the-intersection-of-two-arrays)
-- [24. Write a Java program to check if two arrays are equal](#24-write-a-java-program-to-check-if-two-arrays-are-equal)
-- [25. Write a Java program to find leaders in an array](#25-write-a-java-program-to-find-leaders-in-an-array)
-- [26. Write a Java program to implement Kadane's Algorithm to find the maximum subarray sum](#26-write-a-java-program-to-implement-kadanes-algorithm-to-find-the-maximum-subarray-sum)
-- [27. Write a Java program to find all pairs in an array whose sum is equal to a given number](#27-write-a-java-program-to-find-all-pairs-in-an-array-whose-sum-is-equal-to-a-given-number)
-- [28. Write a Java program to find all triplets in an array whose sum is equal to a given number](#28-write-a-java-program-to-find-all-triplets-in-an-array-whose-sum-is-equal-to-a-given-number)
-- [29. Write a Java program to find the majority element in an array](#29-write-a-java-program-to-find-the-majority-element-in-an-array)
-- [30. Write a Java program to solve the Stock Buy and Sell problem (maximum profit)](#30-write-a-java-program-to-solve-the-stock-buy-and-sell-problem-maximum-profit)
+- [1. Write a Java program to find the largest element in an array](#--problem-12131-write-a-java-program-to-find-the-largest-element-in-an-array-medium-topic-arrays)
+- [2. Write a Java program to find the smallest element in an array](#--problem-12132-write-a-java-program-to-find-the-smallest-element-in-an-array-medium-topic-arrays)
+- [3. Write a Java program to find the second largest element in an array](#--problem-12133-write-a-java-program-to-find-the-second-largest-element-in-an-array-medium-topic-arrays)
+- [4. Write a Java program to find the second smallest element in an array](#--problem-12134-write-a-java-program-to-find-the-second-smallest-element-in-an-array-medium-topic-arrays)
+- [5. Write a Java program to find the sum of all elements in an array](#--problem-12135-write-a-java-program-to-find-the-sum-of-all-elements-in-an-array-medium-topic-arrays)
+- [6. Write a Java program to find the average of elements in an array](#--problem-12136-write-a-java-program-to-find-the-average-of-elements-in-an-array-medium-topic-arrays)
+- [7. Write a Java program to reverse an array](#--problem-12137-write-a-java-program-to-reverse-an-array-medium-topic-arrays)
+- [8. Write a Java program to copy all elements of one array to another array](#--problem-12138-write-a-java-program-to-copy-all-elements-of-one-array-to-another-array-medium-topic-arrays)
+- [9. Write a Java program to merge two arrays into a third array](#--problem-12139-write-a-java-program-to-merge-two-arrays-into-a-third-array-medium-topic-arrays)
+- [10. Write a Java program to insert an element at a specific position in an array](#--problem-12140-write-a-java-program-to-insert-an-element-at-a-specific-position-in-an-array-medium-topic-arrays)
+- [11. Write a Java program to delete an element at a specific position in an array](#--problem-12141-write-a-java-program-to-delete-an-element-at-a-specific-position-in-an-array-medium-topic-arrays)
+- [12. Write a Java program to remove duplicates from an array](#--problem-12142-write-a-java-program-to-remove-duplicates-from-an-array-medium-topic-arrays)
+- [13. Write a Java program to find the frequency of each element in an array](#--problem-12143-write-a-java-program-to-find-the-frequency-of-each-element-in-an-array-medium-topic-arrays)
+- [14. Write a Java program to find the missing number in an array containing numbers from 1 to N](#--problem-12144-write-a-java-program-to-find-the-missing-number-in-an-array-containing-numbers-from-1-to-n-medium-topic-arrays)
+- [15. Write a Java program to find duplicate numbers in an array](#--problem-12145-write-a-java-program-to-find-duplicate-numbers-in-an-array-medium-topic-arrays)
+- [16. Write a Java program to rotate an array to the left](#--problem-12146-write-a-java-program-to-rotate-an-array-to-the-left-medium-topic-arrays)
+- [17. Write a Java program to rotate an array to the right](#--problem-12147-write-a-java-program-to-rotate-an-array-to-the-right-medium-topic-arrays)
+- [18. Write a Java program to sort an array in ascending order](#--problem-12148-write-a-java-program-to-sort-an-array-in-ascending-order-medium-topic-arrays)
+- [19. Write a Java program to sort an array in descending order](#--problem-12149-write-a-java-program-to-sort-an-array-in-descending-order-medium-topic-arrays)
+- [20. Write a Java program to separate even and odd numbers in an array](#--problem-12150-write-a-java-program-to-separate-even-and-odd-numbers-in-an-array-medium-topic-arrays)
+- [21. Write a Java program to move all zeros to the end of an array](#--problem-12151-write-a-java-program-to-move-all-zeros-to-the-end-of-an-array-medium-topic-arrays)
+- [22. Write a Java program to find the union of two arrays](#--problem-12152-write-a-java-program-to-find-the-union-of-two-arrays-medium-topic-arrays)
+- [23. Write a Java program to find the intersection of two arrays](#--problem-12153-write-a-java-program-to-find-the-intersection-of-two-arrays-medium-topic-arrays)
+- [24. Write a Java program to check if two arrays are equal](#--problem-12154-write-a-java-program-to-check-if-two-arrays-are-equal-medium-topic-arrays)
+- [25. Write a Java program to find leaders in an array](#--problem-12155-write-a-java-program-to-find-leaders-in-an-array-medium-topic-arrays)
+- [26. Write a Java program to implement Kadane's Algorithm to find the maximum subarray sum](#--problem-12156-write-a-java-program-to-implement-kadanes-algorithm-to-find-the-maximum-subarray-sum-medium-topic-arrays)
+- [27. Write a Java program to find all pairs in an array whose sum is equal to a given number](#--problem-12157-write-a-java-program-to-find-all-pairs-in-an-array-whose-sum-is-equal-to-a-given-number-medium-topic-arrays)
+- [28. Write a Java program to find all triplets in an array whose sum is equal to a given number](#--problem-12158-write-a-java-program-to-find-all-triplets-in-an-array-whose-sum-is-equal-to-a-given-number-medium-topic-arrays)
+- [29. Write a Java program to find the majority element in an array](#--problem-12159-write-a-java-program-to-find-the-majority-element-in-an-array-medium-topic-arrays)
+- [30. Write a Java program to solve the Stock Buy and Sell problem (maximum profit)](#--problem-12160-write-a-java-program-to-solve-the-stock-buy-and-sell-problem-maximum-profit-medium-topic-arrays)
 
 ---
 
@@ -2491,7 +2491,7 @@ Write a Java program to implement: **find the largest element in an array**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2506,7 +2506,7 @@ Write a Java program to implement: **find the smallest element in an array**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2521,7 +2521,7 @@ Write a Java program to implement: **find the second largest element in an array
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2536,7 +2536,7 @@ Write a Java program to implement: **find the second smallest element in an arra
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2551,7 +2551,7 @@ Write a Java program to implement: **find the sum of all elements in an array**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2566,7 +2566,7 @@ Write a Java program to implement: **find the average of elements in an array**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2581,7 +2581,7 @@ Write a Java program to implement: **reverse an array**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2596,7 +2596,7 @@ Write a Java program to implement: **copy all elements of one array to another a
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2611,7 +2611,7 @@ Write a Java program to implement: **merge two arrays into a third array**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2626,7 +2626,7 @@ Write a Java program to implement: **insert an element at a specific position in
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2641,7 +2641,7 @@ Write a Java program to implement: **delete an element at a specific position in
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2656,7 +2656,7 @@ Write a Java program to implement: **remove duplicates from an array**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2671,7 +2671,7 @@ Write a Java program to implement: **find the frequency of each element in an ar
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2686,7 +2686,7 @@ Write a Java program to implement: **find the missing number in an array contain
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2701,7 +2701,7 @@ Write a Java program to implement: **find duplicate numbers in an array**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2716,7 +2716,7 @@ Write a Java program to implement: **rotate an array to the left**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2731,7 +2731,7 @@ Write a Java program to implement: **rotate an array to the right**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2746,7 +2746,7 @@ Write a Java program to implement: **sort an array in ascending order**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2761,7 +2761,7 @@ Write a Java program to implement: **sort an array in descending order**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2776,7 +2776,7 @@ Write a Java program to implement: **separate even and odd numbers in an array**
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2791,7 +2791,7 @@ Write a Java program to implement: **move all zeros to the end of an array**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2806,7 +2806,7 @@ Write a Java program to implement: **find the union of two arrays**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2821,7 +2821,7 @@ Write a Java program to implement: **find the intersection of two arrays**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2836,7 +2836,7 @@ Write a Java program to implement: **check if two arrays are equal**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2851,7 +2851,7 @@ Write a Java program to implement: **find leaders in an array**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2866,7 +2866,7 @@ Write a Java program to implement: **implement Kadane's Algorithm to find the ma
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2881,7 +2881,7 @@ Write a Java program to implement: **find all pairs in an array whose sum is equ
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2896,7 +2896,7 @@ Write a Java program to implement: **find all triplets in an array whose sum is 
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2911,7 +2911,7 @@ Write a Java program to implement: **find the majority element in an array**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2926,7 +2926,7 @@ Write a Java program to implement: **solve the Stock Buy and Sell problem (maxim
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-5) | [📂 Main README](README.md)
 
 ---
 
@@ -2940,41 +2940,41 @@ Write a Java program to implement: **solve the Stock Buy and Sell problem (maxim
 
 ## 📋 Table of Contents
 
-- [1. Write a Java program to reverse a string](#1-write-a-java-program-to-reverse-a-string)
-- [2. Write a Java program to check if a string is a palindrome](#2-write-a-java-program-to-check-if-a-string-is-a-palindrome)
-- [3. Write a Java program to count the number of vowels in a string](#3-write-a-java-program-to-count-the-number-of-vowels-in-a-string)
-- [4. Write a Java program to count the number of consonants in a string](#4-write-a-java-program-to-count-the-number-of-consonants-in-a-string)
-- [5. Write a Java program to count the number of digits in a string](#5-write-a-java-program-to-count-the-number-of-digits-in-a-string)
-- [6. Write a Java program to count the number of words in a string](#6-write-a-java-program-to-count-the-number-of-words-in-a-string)
-- [7. Write a Java program to count the number of spaces in a string](#7-write-a-java-program-to-count-the-number-of-spaces-in-a-string)
-- [8. Write a Java program to convert a string to uppercase](#8-write-a-java-program-to-convert-a-string-to-uppercase)
-- [9. Write a Java program to convert a string to lowercase](#9-write-a-java-program-to-convert-a-string-to-lowercase)
-- [10. Write a Java program to toggle case of characters in a string](#10-write-a-java-program-to-toggle-case-of-characters-in-a-string)
-- [11. Write a Java program to remove all vowels from a string](#11-write-a-java-program-to-remove-all-vowels-from-a-string)
-- [12. Write a Java program to remove all spaces from a string](#12-write-a-java-program-to-remove-all-spaces-from-a-string)
-- [13. Write a Java program to remove duplicate characters from a string](#13-write-a-java-program-to-remove-duplicate-characters-from-a-string)
-- [14. Write a Java program to sort characters in a string](#14-write-a-java-program-to-sort-characters-in-a-string)
-- [15. Write a Java program to compare two strings](#15-write-a-java-program-to-compare-two-strings)
-- [16. Write a Java program to perform string compression](#16-write-a-java-program-to-perform-string-compression)
-- [17. Write a Java program to find the frequency of each character in a string](#17-write-a-java-program-to-find-the-frequency-of-each-character-in-a-string)
-- [18. Write a Java program to find the first non-repeated character in a string](#18-write-a-java-program-to-find-the-first-non-repeated-character-in-a-string)
-- [19. Write a Java program to find the first repeated character in a string](#19-write-a-java-program-to-find-the-first-repeated-character-in-a-string)
-- [20. Write a Java program to check if two strings are anagrams of each other](#20-write-a-java-program-to-check-if-two-strings-are-anagrams-of-each-other)
-- [21. Write a Java program to check if one string is a rotation of another string](#21-write-a-java-program-to-check-if-one-string-is-a-rotation-of-another-string)
-- [22. Write a Java program to find the longest word in a string](#22-write-a-java-program-to-find-the-longest-word-in-a-string)
-- [23. Write a Java program to find the shortest word in a string](#23-write-a-java-program-to-find-the-shortest-word-in-a-string)
-- [24. Write a Java program to reverse words in a given sentence](#24-write-a-java-program-to-reverse-words-in-a-given-sentence)
-- [25. Write a Java program to capitalize the first letter of each word in a string](#25-write-a-java-program-to-capitalize-the-first-letter-of-each-word-in-a-string)
-- [26. Write a Java program to perform substring search](#26-write-a-java-program-to-perform-substring-search)
-- [27. Write a Java program to replace a substring with another string](#27-write-a-java-program-to-replace-a-substring-with-another-string)
-- [28. Write a Java program to demonstrate StringBuilder and StringBuffer practices](#28-write-a-java-program-to-demonstrate-stringbuilder-and-stringbuffer-practices)
-- [29. Write a Java program to check if a string is a Pangram](#29-write-a-java-program-to-check-if-a-string-is-a-pangram)
-- [30. Write a Java program to check if a string is an Isogram](#30-write-a-java-program-to-check-if-a-string-is-an-isogram)
-- [31. Write a Java program to convert a Roman numeral to an Integer](#31-write-a-java-program-to-convert-a-roman-numeral-to-an-integer)
-- [32. Write a Java program to convert an Integer to a Roman numeral](#32-write-a-java-program-to-convert-an-integer-to-a-roman-numeral)
-- [33. Write a Java program to check for valid parentheses in an expression](#33-write-a-java-program-to-check-for-valid-parentheses-in-an-expression)
-- [34. Write a Java program to find the longest common prefix among an array of strings](#34-write-a-java-program-to-find-the-longest-common-prefix-among-an-array-of-strings)
-- [35. Write a Java program to find the longest palindromic substring in a string](#35-write-a-java-program-to-find-the-longest-palindromic-substring-in-a-string)
+- [1. Write a Java program to reverse a string](#--problem-12161-write-a-java-program-to-reverse-a-string-medium-topic-strings)
+- [2. Write a Java program to check if a string is a palindrome](#--problem-12162-write-a-java-program-to-check-if-a-string-is-a-palindrome-medium-topic-strings)
+- [3. Write a Java program to count the number of vowels in a string](#--problem-12163-write-a-java-program-to-count-the-number-of-vowels-in-a-string-medium-topic-strings)
+- [4. Write a Java program to count the number of consonants in a string](#--problem-12164-write-a-java-program-to-count-the-number-of-consonants-in-a-string-medium-topic-strings)
+- [5. Write a Java program to count the number of digits in a string](#--problem-12165-write-a-java-program-to-count-the-number-of-digits-in-a-string-medium-topic-strings)
+- [6. Write a Java program to count the number of words in a string](#--problem-12166-write-a-java-program-to-count-the-number-of-words-in-a-string-medium-topic-strings)
+- [7. Write a Java program to count the number of spaces in a string](#--problem-12167-write-a-java-program-to-count-the-number-of-spaces-in-a-string-medium-topic-strings)
+- [8. Write a Java program to convert a string to uppercase](#--problem-12168-write-a-java-program-to-convert-a-string-to-uppercase-medium-topic-strings)
+- [9. Write a Java program to convert a string to lowercase](#--problem-12169-write-a-java-program-to-convert-a-string-to-lowercase-medium-topic-strings)
+- [10. Write a Java program to toggle case of characters in a string](#--problem-12170-write-a-java-program-to-toggle-case-of-characters-in-a-string-medium-topic-strings)
+- [11. Write a Java program to remove all vowels from a string](#--problem-12171-write-a-java-program-to-remove-all-vowels-from-a-string-medium-topic-strings)
+- [12. Write a Java program to remove all spaces from a string](#--problem-12172-write-a-java-program-to-remove-all-spaces-from-a-string-medium-topic-strings)
+- [13. Write a Java program to remove duplicate characters from a string](#--problem-12173-write-a-java-program-to-remove-duplicate-characters-from-a-string-medium-topic-strings)
+- [14. Write a Java program to sort characters in a string](#--problem-12174-write-a-java-program-to-sort-characters-in-a-string-medium-topic-strings)
+- [15. Write a Java program to compare two strings](#--problem-12175-write-a-java-program-to-compare-two-strings-medium-topic-strings)
+- [16. Write a Java program to perform string compression](#--problem-12176-write-a-java-program-to-perform-string-compression-medium-topic-strings)
+- [17. Write a Java program to find the frequency of each character in a string](#--problem-12177-write-a-java-program-to-find-the-frequency-of-each-character-in-a-string-medium-topic-strings)
+- [18. Write a Java program to find the first non-repeated character in a string](#--problem-12178-write-a-java-program-to-find-the-first-non-repeated-character-in-a-string-medium-topic-strings)
+- [19. Write a Java program to find the first repeated character in a string](#--problem-12179-write-a-java-program-to-find-the-first-repeated-character-in-a-string-medium-topic-strings)
+- [20. Write a Java program to check if two strings are anagrams of each other](#--problem-12180-write-a-java-program-to-check-if-two-strings-are-anagrams-of-each-other-medium-topic-strings)
+- [21. Write a Java program to check if one string is a rotation of another string](#--problem-12181-write-a-java-program-to-check-if-one-string-is-a-rotation-of-another-string-medium-topic-strings)
+- [22. Write a Java program to find the longest word in a string](#--problem-12182-write-a-java-program-to-find-the-longest-word-in-a-string-medium-topic-strings)
+- [23. Write a Java program to find the shortest word in a string](#--problem-12183-write-a-java-program-to-find-the-shortest-word-in-a-string-medium-topic-strings)
+- [24. Write a Java program to reverse words in a given sentence](#--problem-12184-write-a-java-program-to-reverse-words-in-a-given-sentence-medium-topic-strings)
+- [25. Write a Java program to capitalize the first letter of each word in a string](#--problem-12185-write-a-java-program-to-capitalize-the-first-letter-of-each-word-in-a-string-medium-topic-strings)
+- [26. Write a Java program to perform substring search](#--problem-12186-write-a-java-program-to-perform-substring-search-medium-topic-strings)
+- [27. Write a Java program to replace a substring with another string](#--problem-12187-write-a-java-program-to-replace-a-substring-with-another-string-medium-topic-strings)
+- [28. Write a Java program to demonstrate StringBuilder and StringBuffer practices](#--problem-12188-write-a-java-program-to-demonstrate-stringbuilder-and-stringbuffer-practices-medium-topic-strings)
+- [29. Write a Java program to check if a string is a Pangram](#--problem-12189-write-a-java-program-to-check-if-a-string-is-a-pangram-medium-topic-strings)
+- [30. Write a Java program to check if a string is an Isogram](#--problem-12190-write-a-java-program-to-check-if-a-string-is-an-isogram-medium-topic-strings)
+- [31. Write a Java program to convert a Roman numeral to an Integer](#--problem-12191-write-a-java-program-to-convert-a-roman-numeral-to-an-integer-medium-topic-strings)
+- [32. Write a Java program to convert an Integer to a Roman numeral](#--problem-12192-write-a-java-program-to-convert-an-integer-to-a-roman-numeral-medium-topic-strings)
+- [33. Write a Java program to check for valid parentheses in an expression](#--problem-12193-write-a-java-program-to-check-for-valid-parentheses-in-an-expression-medium-topic-strings)
+- [34. Write a Java program to find the longest common prefix among an array of strings](#--problem-12194-write-a-java-program-to-find-the-longest-common-prefix-among-an-array-of-strings-medium-topic-strings)
+- [35. Write a Java program to find the longest palindromic substring in a string](#--problem-12195-write-a-java-program-to-find-the-longest-palindromic-substring-in-a-string-medium-topic-strings)
 
 ---
 
@@ -2989,7 +2989,7 @@ Write a Java program to implement: **reverse a string**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3004,7 +3004,7 @@ Write a Java program to implement: **check if a string is a palindrome**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3019,7 +3019,7 @@ Write a Java program to implement: **count the number of vowels in a string**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3034,7 +3034,7 @@ Write a Java program to implement: **count the number of consonants in a string*
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3049,7 +3049,7 @@ Write a Java program to implement: **count the number of digits in a string**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3064,7 +3064,7 @@ Write a Java program to implement: **count the number of words in a string**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3079,7 +3079,7 @@ Write a Java program to implement: **count the number of spaces in a string**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3094,7 +3094,7 @@ Write a Java program to implement: **convert a string to uppercase**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3109,7 +3109,7 @@ Write a Java program to implement: **convert a string to lowercase**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3124,7 +3124,7 @@ Write a Java program to implement: **toggle case of characters in a string**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3139,7 +3139,7 @@ Write a Java program to implement: **remove all vowels from a string**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3154,7 +3154,7 @@ Write a Java program to implement: **remove all spaces from a string**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3169,7 +3169,7 @@ Write a Java program to implement: **remove duplicate characters from a string**
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3184,7 +3184,7 @@ Write a Java program to implement: **sort characters in a string**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3199,7 +3199,7 @@ Write a Java program to implement: **compare two strings**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3214,7 +3214,7 @@ Write a Java program to implement: **perform string compression**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3229,7 +3229,7 @@ Write a Java program to implement: **find the frequency of each character in a s
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3244,7 +3244,7 @@ Write a Java program to implement: **find the first non-repeated character in a 
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3259,7 +3259,7 @@ Write a Java program to implement: **find the first repeated character in a stri
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3274,7 +3274,7 @@ Write a Java program to implement: **check if two strings are anagrams of each o
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3289,7 +3289,7 @@ Write a Java program to implement: **check if one string is a rotation of anothe
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3304,7 +3304,7 @@ Write a Java program to implement: **find the longest word in a string**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3319,7 +3319,7 @@ Write a Java program to implement: **find the shortest word in a string**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3334,7 +3334,7 @@ Write a Java program to implement: **reverse words in a given sentence**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3349,7 +3349,7 @@ Write a Java program to implement: **capitalize the first letter of each word in
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3364,7 +3364,7 @@ Write a Java program to implement: **perform substring search**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3379,7 +3379,7 @@ Write a Java program to implement: **replace a substring with another string**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3394,7 +3394,7 @@ Write a Java program to implement: **demonstrate StringBuilder and StringBuffer 
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3409,7 +3409,7 @@ Write a Java program to implement: **check if a string is a Pangram**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3424,7 +3424,7 @@ Write a Java program to implement: **check if a string is an Isogram**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3439,7 +3439,7 @@ Write a Java program to implement: **convert a Roman numeral to an Integer**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3454,7 +3454,7 @@ Write a Java program to implement: **convert an Integer to a Roman numeral**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3469,7 +3469,7 @@ Write a Java program to implement: **check for valid parentheses in an expressio
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3484,7 +3484,7 @@ Write a Java program to implement: **find the longest common prefix among an arr
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3499,7 +3499,7 @@ Write a Java program to implement: **find the longest palindromic substring in a
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-6) | [📂 Main README](README.md)
 
 ---
 
@@ -3513,16 +3513,16 @@ Write a Java program to implement: **find the longest palindromic substring in a
 
 ## 📋 Table of Contents
 
-- [1. Write a Java program to check if a number is prime using a method](#1-write-a-java-program-to-check-if-a-number-is-prime-using-a-method)
-- [2. Write a Java program to calculate the factorial of a number using a method](#2-write-a-java-program-to-calculate-the-factorial-of-a-number-using-a-method)
-- [3. Write a Java program to print the Fibonacci series using a method](#3-write-a-java-program-to-print-the-fibonacci-series-using-a-method)
-- [4. Write a Java program to implement a calculator using different methods for each operation](#4-write-a-java-program-to-implement-a-calculator-using-different-methods-for-each-operation)
-- [5. Write a Java program to demonstrate method overloading](#5-write-a-java-program-to-demonstrate-method-overloading)
-- [6. Write a Java program to find the factorial of a number using a recursive method](#6-write-a-java-program-to-find-the-factorial-of-a-number-using-a-recursive-method)
-- [7. Write a Java program to get the Nth Fibonacci number using a recursive method](#7-write-a-java-program-to-get-the-nth-fibonacci-number-using-a-recursive-method)
-- [8. Write a Java program to find the Greatest Common Divisor (GCD) using a recursive method](#8-write-a-java-program-to-find-the-greatest-common-divisor-gcd-using-a-recursive-method)
-- [9. Write a Java program to calculate power of a number using recursion](#9-write-a-java-program-to-calculate-power-of-a-number-using-recursion)
-- [10. Write a Java program to calculate the sum of first N natural numbers using recursion](#10-write-a-java-program-to-calculate-the-sum-of-first-n-natural-numbers-using-recursion)
+- [1. Write a Java program to check if a number is prime using a method](#--problem-12196-write-a-java-program-to-check-if-a-number-is-prime-using-a-method-medium-topic-general)
+- [2. Write a Java program to calculate the factorial of a number using a method](#--problem-12197-write-a-java-program-to-calculate-the-factorial-of-a-number-using-a-method-medium-topic-general)
+- [3. Write a Java program to print the Fibonacci series using a method](#--problem-12198-write-a-java-program-to-print-the-fibonacci-series-using-a-method-medium-topic-general)
+- [4. Write a Java program to implement a calculator using different methods for each operation](#--problem-12199-write-a-java-program-to-implement-a-calculator-using-different-methods-for-each-operation-medium-topic-general)
+- [5. Write a Java program to demonstrate method overloading](#--problem-12200-write-a-java-program-to-demonstrate-method-overloading-medium-topic-general)
+- [6. Write a Java program to find the factorial of a number using a recursive method](#--problem-12201-write-a-java-program-to-find-the-factorial-of-a-number-using-a-recursive-method-medium-topic-general)
+- [7. Write a Java program to get the Nth Fibonacci number using a recursive method](#--problem-12202-write-a-java-program-to-get-the-nth-fibonacci-number-using-a-recursive-method-medium-topic-general)
+- [8. Write a Java program to find the Greatest Common Divisor (GCD) using a recursive method](#--problem-12203-write-a-java-program-to-find-the-greatest-common-divisor-gcd-using-a-recursive-method-medium-topic-general)
+- [9. Write a Java program to calculate power of a number using recursion](#--problem-12204-write-a-java-program-to-calculate-power-of-a-number-using-recursion-medium-topic-general)
+- [10. Write a Java program to calculate the sum of first N natural numbers using recursion](#--problem-12205-write-a-java-program-to-calculate-the-sum-of-first-n-natural-numbers-using-recursion-medium-topic-general)
 
 ---
 
@@ -3537,7 +3537,7 @@ Write a Java program to implement: **check if a number is prime using a method**
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-7) | [📂 Main README](README.md)
 
 ---
 
@@ -3552,7 +3552,7 @@ Write a Java program to implement: **calculate the factorial of a number using a
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-7) | [📂 Main README](README.md)
 
 ---
 
@@ -3567,7 +3567,7 @@ Write a Java program to implement: **print the Fibonacci series using a method**
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-7) | [📂 Main README](README.md)
 
 ---
 
@@ -3582,7 +3582,7 @@ Write a Java program to implement: **implement a calculator using different meth
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-7) | [📂 Main README](README.md)
 
 ---
 
@@ -3597,7 +3597,7 @@ Write a Java program to implement: **demonstrate method overloading**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-7) | [📂 Main README](README.md)
 
 ---
 
@@ -3612,7 +3612,7 @@ Write a Java program to implement: **find the factorial of a number using a recu
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-7) | [📂 Main README](README.md)
 
 ---
 
@@ -3627,7 +3627,7 @@ Write a Java program to implement: **get the Nth Fibonacci number using a recurs
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-7) | [📂 Main README](README.md)
 
 ---
 
@@ -3642,7 +3642,7 @@ Write a Java program to implement: **find the Greatest Common Divisor (GCD) usin
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-7) | [📂 Main README](README.md)
 
 ---
 
@@ -3657,7 +3657,7 @@ Write a Java program to implement: **calculate power of a number using recursion
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-7) | [📂 Main README](README.md)
 
 ---
 
@@ -3672,7 +3672,7 @@ Write a Java program to implement: **calculate the sum of first N natural number
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-7) | [📂 Main README](README.md)
 
 ---
 
@@ -3686,31 +3686,31 @@ Write a Java program to implement: **calculate the sum of first N natural number
 
 ## 📋 Table of Contents
 
-- [1. Write a Java program to create a Student class and display student details](#1-write-a-java-program-to-create-a-student-class-and-display-student-details)
-- [2. Write a Java program to create an Employee class and display employee details](#2-write-a-java-program-to-create-an-employee-class-and-display-employee-details)
-- [3. Write a Java program to implement a Bank Account class with deposit, withdraw, and check balance features](#3-write-a-java-program-to-implement-a-bank-account-class-with-deposit-withdraw-and-check-balance-features)
-- [4. Write a Java program to create a Book class with constructors and display book details](#4-write-a-java-program-to-create-a-book-class-with-constructors-and-display-book-details)
-- [5. Write a Java program to create a Car class and display car details](#5-write-a-java-program-to-create-a-car-class-and-display-car-details)
-- [6. Write a Java program to create a Mobile class and display mobile details](#6-write-a-java-program-to-create-a-mobile-class-and-display-mobile-details)
-- [7. Write a Java program to demonstrate constructor example in Java](#7-write-a-java-program-to-demonstrate-constructor-example-in-java)
-- [8. Write a Java program to demonstrate constructor overloading](#8-write-a-java-program-to-demonstrate-constructor-overloading)
-- [9. Write a Java program to demonstrate copy constructor in Java](#9-write-a-java-program-to-demonstrate-copy-constructor-in-java)
-- [10. Write a Java program to demonstrate encapsulation in Java](#10-write-a-java-program-to-demonstrate-encapsulation-in-java)
-- [11. Write a Java program to demonstrate single inheritance in Java](#11-write-a-java-program-to-demonstrate-single-inheritance-in-java)
-- [12. Write a Java program to demonstrate multilevel inheritance in Java](#12-write-a-java-program-to-demonstrate-multilevel-inheritance-in-java)
-- [13. Write a Java program to demonstrate hierarchical inheritance in Java](#13-write-a-java-program-to-demonstrate-hierarchical-inheritance-in-java)
-- [14. Write a Java program to demonstrate method overriding in Java](#14-write-a-java-program-to-demonstrate-method-overriding-in-java)
-- [15. Write a Java program to demonstrate runtime polymorphism in Java](#15-write-a-java-program-to-demonstrate-runtime-polymorphism-in-java)
-- [16. Write a Java program to demonstrate compile-time polymorphism (method overloading) in Java](#16-write-a-java-program-to-demonstrate-compile-time-polymorphism-method-overloading-in-java)
-- [17. Write a Java program to demonstrate abstract class and abstract methods in Java](#17-write-a-java-program-to-demonstrate-abstract-class-and-abstract-methods-in-java)
-- [18. Write a Java program to demonstrate interface usage in Java](#18-write-a-java-program-to-demonstrate-interface-usage-in-java)
-- [19. Write a Java program to demonstrate multiple inheritance using interfaces in Java](#19-write-a-java-program-to-demonstrate-multiple-inheritance-using-interfaces-in-java)
-- [20. Write a Java program to demonstrate association between classes in Java](#20-write-a-java-program-to-demonstrate-association-between-classes-in-java)
-- [21. Write a Java program to demonstrate aggregation in Java](#21-write-a-java-program-to-demonstrate-aggregation-in-java)
-- [22. Write a Java program to demonstrate composition in Java](#22-write-a-java-program-to-demonstrate-composition-in-java)
-- [23. Write a Java program to implement a Singleton class in Java](#23-write-a-java-program-to-implement-a-singleton-class-in-java)
-- [24. Write a Java program to create an Immutable class in Java](#24-write-a-java-program-to-create-an-immutable-class-in-java)
-- [25. Write a Java program to demonstrate object cloning in Java](#25-write-a-java-program-to-demonstrate-object-cloning-in-java)
+- [1. Write a Java program to create a Student class and display student details](#--problem-12206-write-a-java-program-to-create-a-student-class-and-display-student-details-medium-topic-oop)
+- [2. Write a Java program to create an Employee class and display employee details](#--problem-12207-write-a-java-program-to-create-an-employee-class-and-display-employee-details-medium-topic-oop)
+- [3. Write a Java program to implement a Bank Account class with deposit, withdraw, and check balance features](#--problem-12208-write-a-java-program-to-implement-a-bank-account-class-with-deposit-withdraw-and-check-balance-features-medium-topic-oop)
+- [4. Write a Java program to create a Book class with constructors and display book details](#--problem-12209-write-a-java-program-to-create-a-book-class-with-constructors-and-display-book-details-medium-topic-oop)
+- [5. Write a Java program to create a Car class and display car details](#--problem-12210-write-a-java-program-to-create-a-car-class-and-display-car-details-medium-topic-oop)
+- [6. Write a Java program to create a Mobile class and display mobile details](#--problem-12211-write-a-java-program-to-create-a-mobile-class-and-display-mobile-details-medium-topic-oop)
+- [7. Write a Java program to demonstrate constructor example in Java](#--problem-12212-write-a-java-program-to-demonstrate-constructor-example-in-java-medium-topic-oop)
+- [8. Write a Java program to demonstrate constructor overloading](#--problem-12213-write-a-java-program-to-demonstrate-constructor-overloading-medium-topic-oop)
+- [9. Write a Java program to demonstrate copy constructor in Java](#--problem-12214-write-a-java-program-to-demonstrate-copy-constructor-in-java-medium-topic-oop)
+- [10. Write a Java program to demonstrate encapsulation in Java](#--problem-12215-write-a-java-program-to-demonstrate-encapsulation-in-java-medium-topic-oop)
+- [11. Write a Java program to demonstrate single inheritance in Java](#--problem-12216-write-a-java-program-to-demonstrate-single-inheritance-in-java-medium-topic-oop)
+- [12. Write a Java program to demonstrate multilevel inheritance in Java](#--problem-12217-write-a-java-program-to-demonstrate-multilevel-inheritance-in-java-medium-topic-oop)
+- [13. Write a Java program to demonstrate hierarchical inheritance in Java](#--problem-12218-write-a-java-program-to-demonstrate-hierarchical-inheritance-in-java-medium-topic-oop)
+- [14. Write a Java program to demonstrate method overriding in Java](#--problem-12219-write-a-java-program-to-demonstrate-method-overriding-in-java-medium-topic-oop)
+- [15. Write a Java program to demonstrate runtime polymorphism in Java](#--problem-12220-write-a-java-program-to-demonstrate-runtime-polymorphism-in-java-medium-topic-oop)
+- [16. Write a Java program to demonstrate compile-time polymorphism (method overloading) in Java](#--problem-12221-write-a-java-program-to-demonstrate-compile-time-polymorphism-method-overloading-in-java-medium-topic-oop)
+- [17. Write a Java program to demonstrate abstract class and abstract methods in Java](#--problem-12222-write-a-java-program-to-demonstrate-abstract-class-and-abstract-methods-in-java-medium-topic-oop)
+- [18. Write a Java program to demonstrate interface usage in Java](#--problem-12223-write-a-java-program-to-demonstrate-interface-usage-in-java-medium-topic-oop)
+- [19. Write a Java program to demonstrate multiple inheritance using interfaces in Java](#--problem-12224-write-a-java-program-to-demonstrate-multiple-inheritance-using-interfaces-in-java-medium-topic-oop)
+- [20. Write a Java program to demonstrate association between classes in Java](#--problem-12225-write-a-java-program-to-demonstrate-association-between-classes-in-java-medium-topic-oop)
+- [21. Write a Java program to demonstrate aggregation in Java](#--problem-12226-write-a-java-program-to-demonstrate-aggregation-in-java-medium-topic-oop)
+- [22. Write a Java program to demonstrate composition in Java](#--problem-12227-write-a-java-program-to-demonstrate-composition-in-java-medium-topic-oop)
+- [23. Write a Java program to implement a Singleton class in Java](#--problem-12228-write-a-java-program-to-implement-a-singleton-class-in-java-medium-topic-oop)
+- [24. Write a Java program to create an Immutable class in Java](#--problem-12229-write-a-java-program-to-create-an-immutable-class-in-java-medium-topic-oop)
+- [25. Write a Java program to demonstrate object cloning in Java](#--problem-12230-write-a-java-program-to-demonstrate-object-cloning-in-java-medium-topic-oop)
 
 ---
 
@@ -3725,7 +3725,7 @@ Write a Java program to implement: **create a Student class and display student 
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-8) | [📂 Main README](README.md)
 
 ---
 
@@ -3740,7 +3740,7 @@ Write a Java program to implement: **create an Employee class and display employ
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-8) | [📂 Main README](README.md)
 
 ---
 
@@ -3755,7 +3755,7 @@ Write a Java program to implement: **implement a Bank Account class with deposit
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-8) | [📂 Main README](README.md)
 
 ---
 
@@ -3770,7 +3770,7 @@ Write a Java program to implement: **create a Book class with constructors and d
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-8) | [📂 Main README](README.md)
 
 ---
 
@@ -3785,7 +3785,7 @@ Write a Java program to implement: **create a Car class and display car details*
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-8) | [📂 Main README](README.md)
 
 ---
 
@@ -3800,7 +3800,7 @@ Write a Java program to implement: **create a Mobile class and display mobile de
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-8) | [📂 Main README](README.md)
 
 ---
 
@@ -3815,7 +3815,7 @@ Write a Java program to implement: **demonstrate constructor example in Java**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-8) | [📂 Main README](README.md)
 
 ---
 
@@ -3830,7 +3830,7 @@ Write a Java program to implement: **demonstrate constructor overloading**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-8) | [📂 Main README](README.md)
 
 ---
 
@@ -3845,7 +3845,7 @@ Write a Java program to implement: **demonstrate copy constructor in Java**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-8) | [📂 Main README](README.md)
 
 ---
 
@@ -3860,7 +3860,7 @@ Write a Java program to implement: **demonstrate encapsulation in Java**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-8) | [📂 Main README](README.md)
 
 ---
 
@@ -3875,7 +3875,7 @@ Write a Java program to implement: **demonstrate single inheritance in Java**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-8) | [📂 Main README](README.md)
 
 ---
 
@@ -3890,7 +3890,7 @@ Write a Java program to implement: **demonstrate multilevel inheritance in Java*
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-8) | [📂 Main README](README.md)
 
 ---
 
@@ -3905,7 +3905,7 @@ Write a Java program to implement: **demonstrate hierarchical inheritance in Jav
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-8) | [📂 Main README](README.md)
 
 ---
 
@@ -3920,7 +3920,7 @@ Write a Java program to implement: **demonstrate method overriding in Java**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-8) | [📂 Main README](README.md)
 
 ---
 
@@ -3935,7 +3935,7 @@ Write a Java program to implement: **demonstrate runtime polymorphism in Java**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-8) | [📂 Main README](README.md)
 
 ---
 
@@ -3950,7 +3950,7 @@ Write a Java program to implement: **demonstrate compile-time polymorphism (meth
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-8) | [📂 Main README](README.md)
 
 ---
 
@@ -3965,7 +3965,7 @@ Write a Java program to implement: **demonstrate abstract class and abstract met
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-8) | [📂 Main README](README.md)
 
 ---
 
@@ -3980,7 +3980,7 @@ Write a Java program to implement: **demonstrate interface usage in Java**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-8) | [📂 Main README](README.md)
 
 ---
 
@@ -3995,7 +3995,7 @@ Write a Java program to implement: **demonstrate multiple inheritance using inte
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-8) | [📂 Main README](README.md)
 
 ---
 
@@ -4010,7 +4010,7 @@ Write a Java program to implement: **demonstrate association between classes in 
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-8) | [📂 Main README](README.md)
 
 ---
 
@@ -4025,7 +4025,7 @@ Write a Java program to implement: **demonstrate aggregation in Java**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-8) | [📂 Main README](README.md)
 
 ---
 
@@ -4040,7 +4040,7 @@ Write a Java program to implement: **demonstrate composition in Java**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-8) | [📂 Main README](README.md)
 
 ---
 
@@ -4055,7 +4055,7 @@ Write a Java program to implement: **implement a Singleton class in Java**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-8) | [📂 Main README](README.md)
 
 ---
 
@@ -4070,7 +4070,7 @@ Write a Java program to implement: **create an Immutable class in Java**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-8) | [📂 Main README](README.md)
 
 ---
 
@@ -4085,7 +4085,7 @@ Write a Java program to implement: **demonstrate object cloning in Java**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-8) | [📂 Main README](README.md)
 
 ---
 
@@ -4099,21 +4099,21 @@ Write a Java program to implement: **demonstrate object cloning in Java**.
 
 ## 📋 Table of Contents
 
-- [1. Write a Java program to handle a divide-by-zero ArithmeticException using try-catch](#1-write-a-java-program-to-handle-a-divide-by-zero-arithmeticexception-using-try-catch)
-- [2. Write a Java program to demonstrate try-catch exception handling](#2-write-a-java-program-to-demonstrate-try-catch-exception-handling)
-- [3. Write a Java program to demonstrate multiple catch blocks](#3-write-a-java-program-to-demonstrate-multiple-catch-blocks)
-- [4. Write a Java program to demonstrate nested try-catch blocks](#4-write-a-java-program-to-demonstrate-nested-try-catch-blocks)
-- [5. Write a Java program to demonstrate the usage of finally block](#5-write-a-java-program-to-demonstrate-the-usage-of-finally-block)
-- [6. Write a Java program to demonstrate the use of 'throw' keyword to throw an exception](#6-write-a-java-program-to-demonstrate-the-use-of-throw-keyword-to-throw-an-exception)
-- [7. Write a Java program to demonstrate the use of 'throws' keyword in a method signature](#7-write-a-java-program-to-demonstrate-the-use-of-throws-keyword-in-a-method-signature)
-- [8. Write a Java program to create and use a Custom Exception in Java](#8-write-a-java-program-to-create-and-use-a-custom-exception-in-java)
-- [9. Write a Java program to implement an InvalidAgeException custom exception for voting validation](#9-write-a-java-program-to-implement-an-invalidageexception-custom-exception-for-voting-validation)
-- [10. Write a Java program to implement an InvalidPasswordException custom exception for password validation](#10-write-a-java-program-to-implement-an-invalidpasswordexception-custom-exception-for-password-validation)
-- [11. Write a Java program to handle FileNotFoundException in file operations](#11-write-a-java-program-to-handle-filenotfoundexception-in-file-operations)
-- [12. Write a Java program to handle NumberFormatException during string parsing](#12-write-a-java-program-to-handle-numberformatexception-during-string-parsing)
-- [13. Write a Java program to handle ArithmeticException in mathematical calculations](#13-write-a-java-program-to-handle-arithmeticexception-in-mathematical-calculations)
-- [14. Write a Java program to demonstrate exception propagation in Java](#14-write-a-java-program-to-demonstrate-exception-propagation-in-java)
-- [15. Write a Java program to implement a BankWithdrawalException custom exception for banking transactions](#15-write-a-java-program-to-implement-a-bankwithdrawalexception-custom-exception-for-banking-transactions)
+- [1. Write a Java program to handle a divide-by-zero ArithmeticException using try-catch](#--problem-12231-write-a-java-program-to-handle-a-divide-by-zero-arithmeticexception-using-try-catch-medium-topic-exceptions)
+- [2. Write a Java program to demonstrate try-catch exception handling](#--problem-12232-write-a-java-program-to-demonstrate-try-catch-exception-handling-medium-topic-exceptions)
+- [3. Write a Java program to demonstrate multiple catch blocks](#--problem-12233-write-a-java-program-to-demonstrate-multiple-catch-blocks-medium-topic-exceptions)
+- [4. Write a Java program to demonstrate nested try-catch blocks](#--problem-12234-write-a-java-program-to-demonstrate-nested-try-catch-blocks-medium-topic-exceptions)
+- [5. Write a Java program to demonstrate the usage of finally block](#--problem-12235-write-a-java-program-to-demonstrate-the-usage-of-finally-block-medium-topic-exceptions)
+- [6. Write a Java program to demonstrate the use of 'throw' keyword to throw an exception](#--problem-12236-write-a-java-program-to-demonstrate-the-use-of-throw-keyword-to-throw-an-exception-medium-topic-exceptions)
+- [7. Write a Java program to demonstrate the use of 'throws' keyword in a method signature](#--problem-12237-write-a-java-program-to-demonstrate-the-use-of-throws-keyword-in-a-method-signature-medium-topic-exceptions)
+- [8. Write a Java program to create and use a Custom Exception in Java](#--problem-12238-write-a-java-program-to-create-and-use-a-custom-exception-in-java-medium-topic-exceptions)
+- [9. Write a Java program to implement an InvalidAgeException custom exception for voting validation](#--problem-12239-write-a-java-program-to-implement-an-invalidageexception-custom-exception-for-voting-validation-medium-topic-exceptions)
+- [10. Write a Java program to implement an InvalidPasswordException custom exception for password validation](#--problem-12240-write-a-java-program-to-implement-an-invalidpasswordexception-custom-exception-for-password-validation-medium-topic-exceptions)
+- [11. Write a Java program to handle FileNotFoundException in file operations](#--problem-12241-write-a-java-program-to-handle-filenotfoundexception-in-file-operations-medium-topic-exceptions)
+- [12. Write a Java program to handle NumberFormatException during string parsing](#--problem-12242-write-a-java-program-to-handle-numberformatexception-during-string-parsing-medium-topic-exceptions)
+- [13. Write a Java program to handle ArithmeticException in mathematical calculations](#--problem-12243-write-a-java-program-to-handle-arithmeticexception-in-mathematical-calculations-medium-topic-exceptions)
+- [14. Write a Java program to demonstrate exception propagation in Java](#--problem-12244-write-a-java-program-to-demonstrate-exception-propagation-in-java-medium-topic-exceptions)
+- [15. Write a Java program to implement a BankWithdrawalException custom exception for banking transactions](#--problem-12245-write-a-java-program-to-implement-a-bankwithdrawalexception-custom-exception-for-banking-transactions-medium-topic-exceptions)
 
 ---
 
@@ -4128,7 +4128,7 @@ Write a Java program to implement: **handle a divide-by-zero ArithmeticException
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-9) | [📂 Main README](README.md)
 
 ---
 
@@ -4143,7 +4143,7 @@ Write a Java program to implement: **demonstrate try-catch exception handling**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-9) | [📂 Main README](README.md)
 
 ---
 
@@ -4158,7 +4158,7 @@ Write a Java program to implement: **demonstrate multiple catch blocks**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-9) | [📂 Main README](README.md)
 
 ---
 
@@ -4173,7 +4173,7 @@ Write a Java program to implement: **demonstrate nested try-catch blocks**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-9) | [📂 Main README](README.md)
 
 ---
 
@@ -4188,7 +4188,7 @@ Write a Java program to implement: **demonstrate the usage of finally block**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-9) | [📂 Main README](README.md)
 
 ---
 
@@ -4203,7 +4203,7 @@ Write a Java program to implement: **demonstrate the use of 'throw' keyword to t
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-9) | [📂 Main README](README.md)
 
 ---
 
@@ -4218,7 +4218,7 @@ Write a Java program to implement: **demonstrate the use of 'throws' keyword in 
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-9) | [📂 Main README](README.md)
 
 ---
 
@@ -4233,7 +4233,7 @@ Write a Java program to implement: **create and use a Custom Exception in Java**
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-9) | [📂 Main README](README.md)
 
 ---
 
@@ -4248,7 +4248,7 @@ Write a Java program to implement: **implement an InvalidAgeException custom exc
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-9) | [📂 Main README](README.md)
 
 ---
 
@@ -4263,7 +4263,7 @@ Write a Java program to implement: **implement an InvalidPasswordException custo
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-9) | [📂 Main README](README.md)
 
 ---
 
@@ -4278,7 +4278,7 @@ Write a Java program to implement: **handle FileNotFoundException in file operat
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-9) | [📂 Main README](README.md)
 
 ---
 
@@ -4293,7 +4293,7 @@ Write a Java program to implement: **handle NumberFormatException during string 
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-9) | [📂 Main README](README.md)
 
 ---
 
@@ -4308,7 +4308,7 @@ Write a Java program to implement: **handle ArithmeticException in mathematical 
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-9) | [📂 Main README](README.md)
 
 ---
 
@@ -4323,7 +4323,7 @@ Write a Java program to implement: **demonstrate exception propagation in Java**
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-9) | [📂 Main README](README.md)
 
 ---
 
@@ -4338,7 +4338,7 @@ Write a Java program to implement: **implement a BankWithdrawalException custom 
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-9) | [📂 Main README](README.md)
 
 ---
 
@@ -4352,36 +4352,36 @@ Write a Java program to implement: **implement a BankWithdrawalException custom 
 
 ## 📋 Table of Contents
 
-- [1. Write a Java program to perform CRUD operations using ArrayList](#1-write-a-java-program-to-perform-crud-operations-using-arraylist)
-- [2. Write a Java program to perform CRUD operations using LinkedList](#2-write-a-java-program-to-perform-crud-operations-using-linkedlist)
-- [3. Write a Java program to demonstrate the usage of Vector class](#3-write-a-java-program-to-demonstrate-the-usage-of-vector-class)
-- [4. Write a Java program to demonstrate the usage of Stack class](#4-write-a-java-program-to-demonstrate-the-usage-of-stack-class)
-- [5. Write a Java program to demonstrate the usage of Queue interface](#5-write-a-java-program-to-demonstrate-the-usage-of-queue-interface)
-- [6. Write a Java program to demonstrate the usage of PriorityQueue](#6-write-a-java-program-to-demonstrate-the-usage-of-priorityqueue)
-- [7. Write a Java program to demonstrate the usage of HashSet](#7-write-a-java-program-to-demonstrate-the-usage-of-hashset)
-- [8. Write a Java program to demonstrate the usage of LinkedHashSet](#8-write-a-java-program-to-demonstrate-the-usage-of-linkedhashset)
-- [9. Write a Java program to demonstrate the usage of TreeSet](#9-write-a-java-program-to-demonstrate-the-usage-of-treeset)
-- [10. Write a Java program to demonstrate the usage of HashMap](#10-write-a-java-program-to-demonstrate-the-usage-of-hashmap)
-- [11. Write a Java program to demonstrate the usage of LinkedHashMap](#11-write-a-java-program-to-demonstrate-the-usage-of-linkedhashmap)
-- [12. Write a Java program to demonstrate the usage of TreeMap](#12-write-a-java-program-to-demonstrate-the-usage-of-treemap)
-- [13. Write a Java program to count frequency of elements using Collections](#13-write-a-java-program-to-count-frequency-of-elements-using-collections)
-- [14. Write a Java program to detect duplicates in a list using Collections](#14-write-a-java-program-to-detect-duplicates-in-a-list-using-collections)
-- [15. Write a Java program to sort an ArrayList](#15-write-a-java-program-to-sort-an-arraylist)
-- [16. Write a Java program to sort custom objects using Collections](#16-write-a-java-program-to-sort-custom-objects-using-collections)
-- [17. Write a Java program to demonstrate the Comparable interface for sorting](#17-write-a-java-program-to-demonstrate-the-comparable-interface-for-sorting)
-- [18. Write a Java program to demonstrate the Comparator interface for custom sorting](#18-write-a-java-program-to-demonstrate-the-comparator-interface-for-custom-sorting)
-- [19. Write a Java program to implement a Student Management system using Collections](#19-write-a-java-program-to-implement-a-student-management-system-using-collections)
-- [20. Write a Java program to implement an Employee Management system using Collections](#20-write-a-java-program-to-implement-an-employee-management-system-using-collections)
-- [21. Write a Java program to implement a Library Management system using Collections](#21-write-a-java-program-to-implement-a-library-management-system-using-collections)
-- [22. Write a Java program to implement an Inventory Management system using Collections](#22-write-a-java-program-to-implement-an-inventory-management-system-using-collections)
-- [23. Write a Java program to count word frequencies in a text using HashMap](#23-write-a-java-program-to-count-word-frequencies-in-a-text-using-hashmap)
-- [24. Write a Java program to implement a Phone Directory using HashMap](#24-write-a-java-program-to-implement-a-phone-directory-using-hashmap)
-- [25. Write a Java program to simulate an LRU Cache using LinkedHashMap](#25-write-a-java-program-to-simulate-an-lru-cache-using-linkedhashmap)
-- [26. Write a Java program to find the top K frequent elements using PriorityQueue](#26-write-a-java-program-to-find-the-top-k-frequent-elements-using-priorityqueue)
-- [27. Write a Java program to group anagrams together using HashMap and List](#27-write-a-java-program-to-group-anagrams-together-using-hashmap-and-list)
-- [28. Write a Java program to sort elements by frequency using Collections](#28-write-a-java-program-to-sort-elements-by-frequency-using-collections)
-- [29. Write a Java program to collect Stream elements into a List/Map](#29-write-a-java-program-to-collect-stream-elements-into-a-listmap)
-- [30. Write a Java program to sort a Map by keys and by values](#30-write-a-java-program-to-sort-a-map-by-keys-and-by-values)
+- [1. Write a Java program to perform CRUD operations using ArrayList](#--problem-12246-write-a-java-program-to-perform-crud-operations-using-arraylist-medium-topic-collections)
+- [2. Write a Java program to perform CRUD operations using LinkedList](#--problem-12247-write-a-java-program-to-perform-crud-operations-using-linkedlist-medium-topic-collections)
+- [3. Write a Java program to demonstrate the usage of Vector class](#--problem-12248-write-a-java-program-to-demonstrate-the-usage-of-vector-class-medium-topic-collections)
+- [4. Write a Java program to demonstrate the usage of Stack class](#--problem-12249-write-a-java-program-to-demonstrate-the-usage-of-stack-class-medium-topic-collections)
+- [5. Write a Java program to demonstrate the usage of Queue interface](#--problem-12250-write-a-java-program-to-demonstrate-the-usage-of-queue-interface-medium-topic-collections)
+- [6. Write a Java program to demonstrate the usage of PriorityQueue](#--problem-12251-write-a-java-program-to-demonstrate-the-usage-of-priorityqueue-medium-topic-collections)
+- [7. Write a Java program to demonstrate the usage of HashSet](#--problem-12252-write-a-java-program-to-demonstrate-the-usage-of-hashset-medium-topic-collections)
+- [8. Write a Java program to demonstrate the usage of LinkedHashSet](#--problem-12253-write-a-java-program-to-demonstrate-the-usage-of-linkedhashset-medium-topic-collections)
+- [9. Write a Java program to demonstrate the usage of TreeSet](#--problem-12254-write-a-java-program-to-demonstrate-the-usage-of-treeset-medium-topic-collections)
+- [10. Write a Java program to demonstrate the usage of HashMap](#--problem-12255-write-a-java-program-to-demonstrate-the-usage-of-hashmap-medium-topic-collections)
+- [11. Write a Java program to demonstrate the usage of LinkedHashMap](#--problem-12256-write-a-java-program-to-demonstrate-the-usage-of-linkedhashmap-medium-topic-collections)
+- [12. Write a Java program to demonstrate the usage of TreeMap](#--problem-12257-write-a-java-program-to-demonstrate-the-usage-of-treemap-medium-topic-collections)
+- [13. Write a Java program to count frequency of elements using Collections](#--problem-12258-write-a-java-program-to-count-frequency-of-elements-using-collections-medium-topic-collections)
+- [14. Write a Java program to detect duplicates in a list using Collections](#--problem-12259-write-a-java-program-to-detect-duplicates-in-a-list-using-collections-medium-topic-collections)
+- [15. Write a Java program to sort an ArrayList](#--problem-12260-write-a-java-program-to-sort-an-arraylist-medium-topic-collections)
+- [16. Write a Java program to sort custom objects using Collections](#--problem-12261-write-a-java-program-to-sort-custom-objects-using-collections-medium-topic-collections)
+- [17. Write a Java program to demonstrate the Comparable interface for sorting](#--problem-12262-write-a-java-program-to-demonstrate-the-comparable-interface-for-sorting-medium-topic-collections)
+- [18. Write a Java program to demonstrate the Comparator interface for custom sorting](#--problem-12263-write-a-java-program-to-demonstrate-the-comparator-interface-for-custom-sorting-medium-topic-collections)
+- [19. Write a Java program to implement a Student Management system using Collections](#--problem-12264-write-a-java-program-to-implement-a-student-management-system-using-collections-medium-topic-collections)
+- [20. Write a Java program to implement an Employee Management system using Collections](#--problem-12265-write-a-java-program-to-implement-an-employee-management-system-using-collections-medium-topic-collections)
+- [21. Write a Java program to implement a Library Management system using Collections](#--problem-12266-write-a-java-program-to-implement-a-library-management-system-using-collections-medium-topic-collections)
+- [22. Write a Java program to implement an Inventory Management system using Collections](#--problem-12267-write-a-java-program-to-implement-an-inventory-management-system-using-collections-medium-topic-collections)
+- [23. Write a Java program to count word frequencies in a text using HashMap](#--problem-12268-write-a-java-program-to-count-word-frequencies-in-a-text-using-hashmap-medium-topic-collections)
+- [24. Write a Java program to implement a Phone Directory using HashMap](#--problem-12269-write-a-java-program-to-implement-a-phone-directory-using-hashmap-medium-topic-collections)
+- [25. Write a Java program to simulate an LRU Cache using LinkedHashMap](#--problem-12270-write-a-java-program-to-simulate-an-lru-cache-using-linkedhashmap-medium-topic-collections)
+- [26. Write a Java program to find the top K frequent elements using PriorityQueue](#--problem-12271-write-a-java-program-to-find-the-top-k-frequent-elements-using-priorityqueue-medium-topic-collections)
+- [27. Write a Java program to group anagrams together using HashMap and List](#--problem-12272-write-a-java-program-to-group-anagrams-together-using-hashmap-and-list-medium-topic-collections)
+- [28. Write a Java program to sort elements by frequency using Collections](#--problem-12273-write-a-java-program-to-sort-elements-by-frequency-using-collections-medium-topic-collections)
+- [29. Write a Java program to collect Stream elements into a List/Map](#--problem-12274-write-a-java-program-to-collect-stream-elements-into-a-listmap-medium-topic-collections)
+- [30. Write a Java program to sort a Map by keys and by values](#--problem-12275-write-a-java-program-to-sort-a-map-by-keys-and-by-values-medium-topic-collections)
 
 ---
 
@@ -4396,7 +4396,7 @@ Write a Java program to implement: **perform CRUD operations using ArrayList**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4411,7 +4411,7 @@ Write a Java program to implement: **perform CRUD operations using LinkedList**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4426,7 +4426,7 @@ Write a Java program to implement: **demonstrate the usage of Vector class**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4441,7 +4441,7 @@ Write a Java program to implement: **demonstrate the usage of Stack class**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4456,7 +4456,7 @@ Write a Java program to implement: **demonstrate the usage of Queue interface**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4471,7 +4471,7 @@ Write a Java program to implement: **demonstrate the usage of PriorityQueue**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4486,7 +4486,7 @@ Write a Java program to implement: **demonstrate the usage of HashSet**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4501,7 +4501,7 @@ Write a Java program to implement: **demonstrate the usage of LinkedHashSet**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4516,7 +4516,7 @@ Write a Java program to implement: **demonstrate the usage of TreeSet**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4531,7 +4531,7 @@ Write a Java program to implement: **demonstrate the usage of HashMap**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4546,7 +4546,7 @@ Write a Java program to implement: **demonstrate the usage of LinkedHashMap**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4561,7 +4561,7 @@ Write a Java program to implement: **demonstrate the usage of TreeMap**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4576,7 +4576,7 @@ Write a Java program to implement: **count frequency of elements using Collectio
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4591,7 +4591,7 @@ Write a Java program to implement: **detect duplicates in a list using Collectio
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4606,7 +4606,7 @@ Write a Java program to implement: **sort an ArrayList**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4621,7 +4621,7 @@ Write a Java program to implement: **sort custom objects using Collections**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4636,7 +4636,7 @@ Write a Java program to implement: **demonstrate the Comparable interface for so
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4651,7 +4651,7 @@ Write a Java program to implement: **demonstrate the Comparator interface for cu
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4666,7 +4666,7 @@ Write a Java program to implement: **implement a Student Management system using
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4681,7 +4681,7 @@ Write a Java program to implement: **implement an Employee Management system usi
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4696,7 +4696,7 @@ Write a Java program to implement: **implement a Library Management system using
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4711,7 +4711,7 @@ Write a Java program to implement: **implement an Inventory Management system us
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4726,7 +4726,7 @@ Write a Java program to implement: **count word frequencies in a text using Hash
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4741,7 +4741,7 @@ Write a Java program to implement: **implement a Phone Directory using HashMap**
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4756,7 +4756,7 @@ Write a Java program to implement: **simulate an LRU Cache using LinkedHashMap**
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4771,7 +4771,7 @@ Write a Java program to implement: **find the top K frequent elements using Prio
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4786,7 +4786,7 @@ Write a Java program to implement: **group anagrams together using HashMap and L
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4801,7 +4801,7 @@ Write a Java program to implement: **sort elements by frequency using Collection
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4816,7 +4816,7 @@ Write a Java program to implement: **collect Stream elements into a List/Map**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4831,7 +4831,7 @@ Write a Java program to implement: **sort a Map by keys and by values**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-10) | [📂 Main README](README.md)
 
 ---
 
@@ -4845,16 +4845,16 @@ Write a Java program to implement: **sort a Map by keys and by values**.
 
 ## 📋 Table of Contents
 
-- [1. Write a Java program to create a new file on disk](#1-write-a-java-program-to-create-a-new-file-on-disk)
-- [2. Write a Java program to write text to a file](#2-write-a-java-program-to-write-text-to-a-file)
-- [3. Write a Java program to read text from a file](#3-write-a-java-program-to-read-text-from-a-file)
-- [4. Write a Java program to append text to an existing file](#4-write-a-java-program-to-append-text-to-an-existing-file)
-- [5. Write a Java program to copy content from one file to another](#5-write-a-java-program-to-copy-content-from-one-file-to-another)
-- [6. Write a Java program to move a file from one directory to another](#6-write-a-java-program-to-move-a-file-from-one-directory-to-another)
-- [7. Write a Java program to delete a file](#7-write-a-java-program-to-delete-a-file)
-- [8. Write a Java program to read and parse a CSV file in Java](#8-write-a-java-program-to-read-and-parse-a-csv-file-in-java)
-- [9. Write a Java program to implement a Log File Analyzer](#9-write-a-java-program-to-implement-a-log-file-analyzer)
-- [10. Write a Java program to implement a Student Record System that saves data to a file](#10-write-a-java-program-to-implement-a-student-record-system-that-saves-data-to-a-file)
+- [1. Write a Java program to create a new file on disk](#--problem-12276-write-a-java-program-to-create-a-new-file-on-disk-medium-topic-file-handling)
+- [2. Write a Java program to write text to a file](#--problem-12277-write-a-java-program-to-write-text-to-a-file-medium-topic-file-handling)
+- [3. Write a Java program to read text from a file](#--problem-12278-write-a-java-program-to-read-text-from-a-file-medium-topic-file-handling)
+- [4. Write a Java program to append text to an existing file](#--problem-12279-write-a-java-program-to-append-text-to-an-existing-file-medium-topic-file-handling)
+- [5. Write a Java program to copy content from one file to another](#--problem-12280-write-a-java-program-to-copy-content-from-one-file-to-another-medium-topic-file-handling)
+- [6. Write a Java program to move a file from one directory to another](#--problem-12281-write-a-java-program-to-move-a-file-from-one-directory-to-another-medium-topic-file-handling)
+- [7. Write a Java program to delete a file](#--problem-12282-write-a-java-program-to-delete-a-file-medium-topic-file-handling)
+- [8. Write a Java program to read and parse a CSV file in Java](#--problem-12283-write-a-java-program-to-read-and-parse-a-csv-file-in-java-medium-topic-file-handling)
+- [9. Write a Java program to implement a Log File Analyzer](#--problem-12284-write-a-java-program-to-implement-a-log-file-analyzer-medium-topic-file-handling)
+- [10. Write a Java program to implement a Student Record System that saves data to a file](#--problem-12285-write-a-java-program-to-implement-a-student-record-system-that-saves-data-to-a-file-medium-topic-file-handling)
 
 ---
 
@@ -4869,7 +4869,7 @@ Write a Java program to implement: **create a new file on disk**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-11) | [📂 Main README](README.md)
 
 ---
 
@@ -4884,7 +4884,7 @@ Write a Java program to implement: **write text to a file**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-11) | [📂 Main README](README.md)
 
 ---
 
@@ -4899,7 +4899,7 @@ Write a Java program to implement: **read text from a file**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-11) | [📂 Main README](README.md)
 
 ---
 
@@ -4914,7 +4914,7 @@ Write a Java program to implement: **append text to an existing file**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-11) | [📂 Main README](README.md)
 
 ---
 
@@ -4929,7 +4929,7 @@ Write a Java program to implement: **copy content from one file to another**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-11) | [📂 Main README](README.md)
 
 ---
 
@@ -4944,7 +4944,7 @@ Write a Java program to implement: **move a file from one directory to another**
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-11) | [📂 Main README](README.md)
 
 ---
 
@@ -4959,7 +4959,7 @@ Write a Java program to implement: **delete a file**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-11) | [📂 Main README](README.md)
 
 ---
 
@@ -4974,7 +4974,7 @@ Write a Java program to implement: **read and parse a CSV file in Java**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-11) | [📂 Main README](README.md)
 
 ---
 
@@ -4989,7 +4989,7 @@ Write a Java program to implement: **implement a Log File Analyzer**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-11) | [📂 Main README](README.md)
 
 ---
 
@@ -5004,7 +5004,7 @@ Write a Java program to implement: **implement a Student Record System that save
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-11) | [📂 Main README](README.md)
 
 ---
 
@@ -5018,21 +5018,21 @@ Write a Java program to implement: **implement a Student Record System that save
 
 ## 📋 Table of Contents
 
-- [1. Write a Java program to demonstrate Lambda Expressions](#1-write-a-java-program-to-demonstrate-lambda-expressions)
-- [2. Write a Java program to create and use a custom Functional Interface](#2-write-a-java-program-to-create-and-use-a-custom-functional-interface)
-- [3. Write a Java program to demonstrate Predicate functional interface](#3-write-a-java-program-to-demonstrate-predicate-functional-interface)
-- [4. Write a Java program to demonstrate Function functional interface](#4-write-a-java-program-to-demonstrate-function-functional-interface)
-- [5. Write a Java program to demonstrate Consumer functional interface](#5-write-a-java-program-to-demonstrate-consumer-functional-interface)
-- [6. Write a Java program to demonstrate Supplier functional interface](#6-write-a-java-program-to-demonstrate-supplier-functional-interface)
-- [7. Write a Java program to demonstrate Method References in Java](#7-write-a-java-program-to-demonstrate-method-references-in-java)
-- [8. Write a Java program to filter elements from a list using Java 8 Streams](#8-write-a-java-program-to-filter-elements-from-a-list-using-java-8-streams)
-- [9. Write a Java program to map elements of a list using Java 8 Streams](#9-write-a-java-program-to-map-elements-of-a-list-using-java-8-streams)
-- [10. Write a Java program to perform reduce operations using Java 8 Streams](#10-write-a-java-program-to-perform-reduce-operations-using-java-8-streams)
-- [11. Write a Java program to collect stream elements using Java 8 Streams](#11-write-a-java-program-to-collect-stream-elements-using-java-8-streams)
-- [12. Write a Java program to demonstrate the usage of Optional class](#12-write-a-java-program-to-demonstrate-the-usage-of-optional-class)
-- [13. Write a Java program to demonstrate the Java 8 Date and Time API](#13-write-a-java-program-to-demonstrate-the-java-8-date-and-time-api)
-- [14. Write a Java program to demonstrate Parallel Streams for performance optimization](#14-write-a-java-program-to-demonstrate-parallel-streams-for-performance-optimization)
-- [15. Write a Java program to demonstrate custom stream operations in Java](#15-write-a-java-program-to-demonstrate-custom-stream-operations-in-java)
+- [1. Write a Java program to demonstrate Lambda Expressions](#--problem-12286-write-a-java-program-to-demonstrate-lambda-expressions-medium-topic-java-8)
+- [2. Write a Java program to create and use a custom Functional Interface](#--problem-12287-write-a-java-program-to-create-and-use-a-custom-functional-interface-medium-topic-java-8)
+- [3. Write a Java program to demonstrate Predicate functional interface](#--problem-12288-write-a-java-program-to-demonstrate-predicate-functional-interface-medium-topic-java-8)
+- [4. Write a Java program to demonstrate Function functional interface](#--problem-12289-write-a-java-program-to-demonstrate-function-functional-interface-medium-topic-java-8)
+- [5. Write a Java program to demonstrate Consumer functional interface](#--problem-12290-write-a-java-program-to-demonstrate-consumer-functional-interface-medium-topic-java-8)
+- [6. Write a Java program to demonstrate Supplier functional interface](#--problem-12291-write-a-java-program-to-demonstrate-supplier-functional-interface-medium-topic-java-8)
+- [7. Write a Java program to demonstrate Method References in Java](#--problem-12292-write-a-java-program-to-demonstrate-method-references-in-java-medium-topic-java-8)
+- [8. Write a Java program to filter elements from a list using Java 8 Streams](#--problem-12293-write-a-java-program-to-filter-elements-from-a-list-using-java-8-streams-medium-topic-java-8)
+- [9. Write a Java program to map elements of a list using Java 8 Streams](#--problem-12294-write-a-java-program-to-map-elements-of-a-list-using-java-8-streams-medium-topic-java-8)
+- [10. Write a Java program to perform reduce operations using Java 8 Streams](#--problem-12295-write-a-java-program-to-perform-reduce-operations-using-java-8-streams-medium-topic-java-8)
+- [11. Write a Java program to collect stream elements using Java 8 Streams](#--problem-12296-write-a-java-program-to-collect-stream-elements-using-java-8-streams-medium-topic-java-8)
+- [12. Write a Java program to demonstrate the usage of Optional class](#--problem-12297-write-a-java-program-to-demonstrate-the-usage-of-optional-class-medium-topic-java-8)
+- [13. Write a Java program to demonstrate the Java 8 Date and Time API](#--problem-12298-write-a-java-program-to-demonstrate-the-java-8-date-and-time-api-medium-topic-java-8)
+- [14. Write a Java program to demonstrate Parallel Streams for performance optimization](#--problem-12299-write-a-java-program-to-demonstrate-parallel-streams-for-performance-optimization-medium-topic-java-8)
+- [15. Write a Java program to demonstrate custom stream operations in Java](#--problem-12300-write-a-java-program-to-demonstrate-custom-stream-operations-in-java-medium-topic-java-8)
 
 ---
 
@@ -5047,7 +5047,7 @@ Write a Java program to implement: **demonstrate Lambda Expressions**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-12) | [📂 Main README](README.md)
 
 ---
 
@@ -5062,7 +5062,7 @@ Write a Java program to implement: **create and use a custom Functional Interfac
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-12) | [📂 Main README](README.md)
 
 ---
 
@@ -5077,7 +5077,7 @@ Write a Java program to implement: **demonstrate Predicate functional interface*
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-12) | [📂 Main README](README.md)
 
 ---
 
@@ -5092,7 +5092,7 @@ Write a Java program to implement: **demonstrate Function functional interface**
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-12) | [📂 Main README](README.md)
 
 ---
 
@@ -5107,7 +5107,7 @@ Write a Java program to implement: **demonstrate Consumer functional interface**
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-12) | [📂 Main README](README.md)
 
 ---
 
@@ -5122,7 +5122,7 @@ Write a Java program to implement: **demonstrate Supplier functional interface**
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-12) | [📂 Main README](README.md)
 
 ---
 
@@ -5137,7 +5137,7 @@ Write a Java program to implement: **demonstrate Method References in Java**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-12) | [📂 Main README](README.md)
 
 ---
 
@@ -5152,7 +5152,7 @@ Write a Java program to implement: **filter elements from a list using Java 8 St
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-12) | [📂 Main README](README.md)
 
 ---
 
@@ -5167,7 +5167,7 @@ Write a Java program to implement: **map elements of a list using Java 8 Streams
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-12) | [📂 Main README](README.md)
 
 ---
 
@@ -5182,7 +5182,7 @@ Write a Java program to implement: **perform reduce operations using Java 8 Stre
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-12) | [📂 Main README](README.md)
 
 ---
 
@@ -5197,7 +5197,7 @@ Write a Java program to implement: **collect stream elements using Java 8 Stream
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-12) | [📂 Main README](README.md)
 
 ---
 
@@ -5212,7 +5212,7 @@ Write a Java program to implement: **demonstrate the usage of Optional class**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-12) | [📂 Main README](README.md)
 
 ---
 
@@ -5227,7 +5227,7 @@ Write a Java program to implement: **demonstrate the Java 8 Date and Time API**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-12) | [📂 Main README](README.md)
 
 ---
 
@@ -5242,7 +5242,7 @@ Write a Java program to implement: **demonstrate Parallel Streams for performanc
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-12) | [📂 Main README](README.md)
 
 ---
 
@@ -5257,7 +5257,7 @@ Write a Java program to implement: **demonstrate custom stream operations in Jav
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-12) | [📂 Main README](README.md)
 
 ---
 
@@ -5271,56 +5271,56 @@ Write a Java program to implement: **demonstrate custom stream operations in Jav
 
 ## 📋 Table of Contents
 
-- [1. Write a Java program to implement Linear Search](#1-write-a-java-program-to-implement-linear-search)
-- [2. Write a Java program to implement Binary Search](#2-write-a-java-program-to-implement-binary-search)
-- [3. Write a Java program to implement Bubble Sort](#3-write-a-java-program-to-implement-bubble-sort)
-- [4. Write a Java program to implement Selection Sort](#4-write-a-java-program-to-implement-selection-sort)
-- [5. Write a Java program to implement Insertion Sort](#5-write-a-java-program-to-implement-insertion-sort)
-- [6. Write a Java program to implement Merge Sort](#6-write-a-java-program-to-implement-merge-sort)
-- [7. Write a Java program to implement Quick Sort](#7-write-a-java-program-to-implement-quick-sort)
-- [8. Write a Java program to implement Heap Sort](#8-write-a-java-program-to-implement-heap-sort)
-- [9. Write a Java program to implement Counting Sort](#9-write-a-java-program-to-implement-counting-sort)
-- [10. Write a Java program to implement Radix Sort](#10-write-a-java-program-to-implement-radix-sort)
-- [11. Write a Java program to implement Bucket Sort](#11-write-a-java-program-to-implement-bucket-sort)
-- [12. Write a Java program to implement Binary Tree Traversals (Inorder, Preorder, Postorder)](#12-write-a-java-program-to-implement-binary-tree-traversals-inorder-preorder-postorder)
-- [13. Write a Java program to insert a node in a Binary Search Tree (BST)](#13-write-a-java-program-to-insert-a-node-in-a-binary-search-tree-bst)
-- [14. Write a Java program to search for a value in a Binary Search Tree (BST)](#14-write-a-java-program-to-search-for-a-value-in-a-binary-search-tree-bst)
-- [15. Write a Java program to delete a node from a Binary Search Tree (BST)](#15-write-a-java-program-to-delete-a-node-from-a-binary-search-tree-bst)
-- [16. Write a Java program to perform Depth First Search (DFS) on a graph](#16-write-a-java-program-to-perform-depth-first-search-dfs-on-a-graph)
-- [17. Write a Java program to perform Breadth First Search (BFS) on a graph](#17-write-a-java-program-to-perform-breadth-first-search-bfs-on-a-graph)
-- [18. Write a Java program to represent a graph using Adjacency List and Adjacency Matrix](#18-write-a-java-program-to-represent-a-graph-using-adjacency-list-and-adjacency-matrix)
-- [19. Write a Java program to implement Dijkstra's Algorithm for shortest path](#19-write-a-java-program-to-implement-dijkstras-algorithm-for-shortest-path)
-- [20. Write a Java program to implement Floyd Warshall Algorithm for all-pairs shortest paths](#20-write-a-java-program-to-implement-floyd-warshall-algorithm-for-all-pairs-shortest-paths)
-- [21. Write a Java program to implement Kruskal's Algorithm for Minimum Spanning Tree](#21-write-a-java-program-to-implement-kruskals-algorithm-for-minimum-spanning-tree)
-- [22. Write a Java program to implement Prim's Algorithm for Minimum Spanning Tree](#22-write-a-java-program-to-implement-prims-algorithm-for-minimum-spanning-tree)
-- [23. Write a Java program to implement Topological Sort on a Directed Acyclic Graph (DAG)](#23-write-a-java-program-to-implement-topological-sort-on-a-directed-acyclic-graph-dag)
-- [24. Write a Java program to detect cycles in directed and undirected graphs](#24-write-a-java-program-to-detect-cycles-in-directed-and-undirected-graphs)
-- [25. Write a Java program to implement a Trie data structure (insert, search, startsWith)](#25-write-a-java-program-to-implement-a-trie-data-structure-insert-search-startswith)
-- [26. Write a Java program to implement a Segment Tree](#26-write-a-java-program-to-implement-a-segment-tree)
-- [27. Write a Java program to implement a Fenwick Tree (Binary Indexed Tree)](#27-write-a-java-program-to-implement-a-fenwick-tree-binary-indexed-tree)
-- [28. Write a Java program to implement a Stack using an array](#28-write-a-java-program-to-implement-a-stack-using-an-array)
-- [29. Write a Java program to implement a Queue using an array](#29-write-a-java-program-to-implement-a-queue-using-an-array)
-- [30. Write a Java program to implement a Circular Queue](#30-write-a-java-program-to-implement-a-circular-queue)
-- [31. Write a Java program to implement a Singly Linked List (insert, delete, display)](#31-write-a-java-program-to-implement-a-singly-linked-list-insert-delete-display)
-- [32. Write a Java program to implement a Doubly Linked List](#32-write-a-java-program-to-implement-a-doubly-linked-list)
-- [33. Write a Java program to implement a Circular Linked List](#33-write-a-java-program-to-implement-a-circular-linked-list)
-- [34. Write a Java program to detect a loop in a Linked List (Floyd's Cycle Finding Algorithm)](#34-write-a-java-program-to-detect-a-loop-in-a-linked-list-floyds-cycle-finding-algorithm)
-- [35. Write a Java program to reverse a Singly Linked List](#35-write-a-java-program-to-reverse-a-singly-linked-list)
-- [36. Write a Java program to simulate an LRU Cache (Design and Implementation)](#36-write-a-java-program-to-simulate-an-lru-cache-design-and-implementation)
-- [37. Write a Java program to implement a Min Heap](#37-write-a-java-program-to-implement-a-min-heap)
-- [38. Write a Java program to implement a Max Heap](#38-write-a-java-program-to-implement-a-max-heap)
-- [39. Write a Java program to solve the Sliding Window Maximum problem](#39-write-a-java-program-to-solve-the-sliding-window-maximum-problem)
-- [40. Write a Java program to solve the Two Sum problem](#40-write-a-java-program-to-solve-the-two-sum-problem)
-- [41. Write a Java program to solve the Three Sum problem](#41-write-a-java-program-to-solve-the-three-sum-problem)
-- [42. Write a Java program to find the Longest Substring Without Repeating Characters](#42-write-a-java-program-to-find-the-longest-substring-without-repeating-characters)
-- [43. Write a Java program to find the Longest Increasing Subsequence](#43-write-a-java-program-to-find-the-longest-increasing-subsequence)
-- [44. Write a Java program to solve the Coin Change problem](#44-write-a-java-program-to-solve-the-coin-change-problem)
-- [45. Write a Java program to solve the 0/1 Knapsack problem](#45-write-a-java-program-to-solve-the-01-knapsack-problem)
-- [46. Write a Java program to solve the N-Queens problem](#46-write-a-java-program-to-solve-the-n-queens-problem)
-- [47. Write a Java program to solve the Sudoku Solver problem](#47-write-a-java-program-to-solve-the-sudoku-solver-problem)
-- [48. Write a Java program to solve the Rat in a Maze problem](#48-write-a-java-program-to-solve-the-rat-in-a-maze-problem)
-- [49. Write a Java program to solve the Word Search problem](#49-write-a-java-program-to-solve-the-word-search-problem)
-- [50. Write a Java program to demonstrate Dynamic Programming Basics (e.g. Fibonacci, Climbing Stairs)](#50-write-a-java-program-to-demonstrate-dynamic-programming-basics-eg-fibonacci-climbing-stairs)
+- [1. Write a Java program to implement Linear Search](#--problem-12301-write-a-java-program-to-implement-linear-search-hard-topic-advanced-dsa)
+- [2. Write a Java program to implement Binary Search](#--problem-12302-write-a-java-program-to-implement-binary-search-hard-topic-advanced-dsa)
+- [3. Write a Java program to implement Bubble Sort](#--problem-12303-write-a-java-program-to-implement-bubble-sort-hard-topic-advanced-dsa)
+- [4. Write a Java program to implement Selection Sort](#--problem-12304-write-a-java-program-to-implement-selection-sort-hard-topic-advanced-dsa)
+- [5. Write a Java program to implement Insertion Sort](#--problem-12305-write-a-java-program-to-implement-insertion-sort-hard-topic-advanced-dsa)
+- [6. Write a Java program to implement Merge Sort](#--problem-12306-write-a-java-program-to-implement-merge-sort-hard-topic-advanced-dsa)
+- [7. Write a Java program to implement Quick Sort](#--problem-12307-write-a-java-program-to-implement-quick-sort-hard-topic-advanced-dsa)
+- [8. Write a Java program to implement Heap Sort](#--problem-12308-write-a-java-program-to-implement-heap-sort-hard-topic-advanced-dsa)
+- [9. Write a Java program to implement Counting Sort](#--problem-12309-write-a-java-program-to-implement-counting-sort-hard-topic-advanced-dsa)
+- [10. Write a Java program to implement Radix Sort](#--problem-12310-write-a-java-program-to-implement-radix-sort-hard-topic-advanced-dsa)
+- [11. Write a Java program to implement Bucket Sort](#--problem-12311-write-a-java-program-to-implement-bucket-sort-hard-topic-advanced-dsa)
+- [12. Write a Java program to implement Binary Tree Traversals (Inorder, Preorder, Postorder)](#--problem-12312-write-a-java-program-to-implement-binary-tree-traversals-inorder-preorder-postorder-hard-topic-advanced-dsa)
+- [13. Write a Java program to insert a node in a Binary Search Tree (BST)](#--problem-12313-write-a-java-program-to-insert-a-node-in-a-binary-search-tree-bst-hard-topic-advanced-dsa)
+- [14. Write a Java program to search for a value in a Binary Search Tree (BST)](#--problem-12314-write-a-java-program-to-search-for-a-value-in-a-binary-search-tree-bst-hard-topic-advanced-dsa)
+- [15. Write a Java program to delete a node from a Binary Search Tree (BST)](#--problem-12315-write-a-java-program-to-delete-a-node-from-a-binary-search-tree-bst-hard-topic-advanced-dsa)
+- [16. Write a Java program to perform Depth First Search (DFS) on a graph](#--problem-12316-write-a-java-program-to-perform-depth-first-search-dfs-on-a-graph-hard-topic-advanced-dsa)
+- [17. Write a Java program to perform Breadth First Search (BFS) on a graph](#--problem-12317-write-a-java-program-to-perform-breadth-first-search-bfs-on-a-graph-hard-topic-advanced-dsa)
+- [18. Write a Java program to represent a graph using Adjacency List and Adjacency Matrix](#--problem-12318-write-a-java-program-to-represent-a-graph-using-adjacency-list-and-adjacency-matrix-hard-topic-advanced-dsa)
+- [19. Write a Java program to implement Dijkstra's Algorithm for shortest path](#--problem-12319-write-a-java-program-to-implement-dijkstras-algorithm-for-shortest-path-hard-topic-advanced-dsa)
+- [20. Write a Java program to implement Floyd Warshall Algorithm for all-pairs shortest paths](#--problem-12320-write-a-java-program-to-implement-floyd-warshall-algorithm-for-all-pairs-shortest-paths-hard-topic-advanced-dsa)
+- [21. Write a Java program to implement Kruskal's Algorithm for Minimum Spanning Tree](#--problem-12321-write-a-java-program-to-implement-kruskals-algorithm-for-minimum-spanning-tree-hard-topic-advanced-dsa)
+- [22. Write a Java program to implement Prim's Algorithm for Minimum Spanning Tree](#--problem-12322-write-a-java-program-to-implement-prims-algorithm-for-minimum-spanning-tree-hard-topic-advanced-dsa)
+- [23. Write a Java program to implement Topological Sort on a Directed Acyclic Graph (DAG)](#--problem-12323-write-a-java-program-to-implement-topological-sort-on-a-directed-acyclic-graph-dag-hard-topic-advanced-dsa)
+- [24. Write a Java program to detect cycles in directed and undirected graphs](#--problem-12324-write-a-java-program-to-detect-cycles-in-directed-and-undirected-graphs-hard-topic-advanced-dsa)
+- [25. Write a Java program to implement a Trie data structure (insert, search, startsWith)](#--problem-12325-write-a-java-program-to-implement-a-trie-data-structure-insert-search-startswith-hard-topic-advanced-dsa)
+- [26. Write a Java program to implement a Segment Tree](#--problem-12326-write-a-java-program-to-implement-a-segment-tree-hard-topic-advanced-dsa)
+- [27. Write a Java program to implement a Fenwick Tree (Binary Indexed Tree)](#--problem-12327-write-a-java-program-to-implement-a-fenwick-tree-binary-indexed-tree-hard-topic-advanced-dsa)
+- [28. Write a Java program to implement a Stack using an array](#--problem-12328-write-a-java-program-to-implement-a-stack-using-an-array-hard-topic-advanced-dsa)
+- [29. Write a Java program to implement a Queue using an array](#--problem-12329-write-a-java-program-to-implement-a-queue-using-an-array-hard-topic-advanced-dsa)
+- [30. Write a Java program to implement a Circular Queue](#--problem-12330-write-a-java-program-to-implement-a-circular-queue-hard-topic-advanced-dsa)
+- [31. Write a Java program to implement a Singly Linked List (insert, delete, display)](#--problem-12331-write-a-java-program-to-implement-a-singly-linked-list-insert-delete-display-hard-topic-advanced-dsa)
+- [32. Write a Java program to implement a Doubly Linked List](#--problem-12332-write-a-java-program-to-implement-a-doubly-linked-list-hard-topic-advanced-dsa)
+- [33. Write a Java program to implement a Circular Linked List](#--problem-12333-write-a-java-program-to-implement-a-circular-linked-list-hard-topic-advanced-dsa)
+- [34. Write a Java program to detect a loop in a Linked List (Floyd's Cycle Finding Algorithm)](#--problem-12334-write-a-java-program-to-detect-a-loop-in-a-linked-list-floyds-cycle-finding-algorithm-hard-topic-advanced-dsa)
+- [35. Write a Java program to reverse a Singly Linked List](#--problem-12335-write-a-java-program-to-reverse-a-singly-linked-list-hard-topic-advanced-dsa)
+- [36. Write a Java program to simulate an LRU Cache (Design and Implementation)](#--problem-12336-write-a-java-program-to-simulate-an-lru-cache-design-and-implementation-hard-topic-advanced-dsa)
+- [37. Write a Java program to implement a Min Heap](#--problem-12337-write-a-java-program-to-implement-a-min-heap-hard-topic-advanced-dsa)
+- [38. Write a Java program to implement a Max Heap](#--problem-12338-write-a-java-program-to-implement-a-max-heap-hard-topic-advanced-dsa)
+- [39. Write a Java program to solve the Sliding Window Maximum problem](#--problem-12339-write-a-java-program-to-solve-the-sliding-window-maximum-problem-hard-topic-advanced-dsa)
+- [40. Write a Java program to solve the Two Sum problem](#--problem-12340-write-a-java-program-to-solve-the-two-sum-problem-hard-topic-advanced-dsa)
+- [41. Write a Java program to solve the Three Sum problem](#--problem-12341-write-a-java-program-to-solve-the-three-sum-problem-hard-topic-advanced-dsa)
+- [42. Write a Java program to find the Longest Substring Without Repeating Characters](#--problem-12342-write-a-java-program-to-find-the-longest-substring-without-repeating-characters-hard-topic-advanced-dsa)
+- [43. Write a Java program to find the Longest Increasing Subsequence](#--problem-12343-write-a-java-program-to-find-the-longest-increasing-subsequence-hard-topic-advanced-dsa)
+- [44. Write a Java program to solve the Coin Change problem](#--problem-12344-write-a-java-program-to-solve-the-coin-change-problem-hard-topic-advanced-dsa)
+- [45. Write a Java program to solve the 0/1 Knapsack problem](#--problem-12345-write-a-java-program-to-solve-the-01-knapsack-problem-hard-topic-advanced-dsa)
+- [46. Write a Java program to solve the N-Queens problem](#--problem-12346-write-a-java-program-to-solve-the-n-queens-problem-hard-topic-advanced-dsa)
+- [47. Write a Java program to solve the Sudoku Solver problem](#--problem-12347-write-a-java-program-to-solve-the-sudoku-solver-problem-hard-topic-advanced-dsa)
+- [48. Write a Java program to solve the Rat in a Maze problem](#--problem-12348-write-a-java-program-to-solve-the-rat-in-a-maze-problem-hard-topic-advanced-dsa)
+- [49. Write a Java program to solve the Word Search problem](#--problem-12349-write-a-java-program-to-solve-the-word-search-problem-hard-topic-advanced-dsa)
+- [50. Write a Java program to demonstrate Dynamic Programming Basics (e.g. Fibonacci, Climbing Stairs)](#--problem-12350-write-a-java-program-to-demonstrate-dynamic-programming-basics-eg-fibonacci-climbing-stairs-hard-topic-advanced-dsa)
 
 ---
 
@@ -5335,7 +5335,7 @@ Write a Java program to implement: **implement Linear Search**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5350,7 +5350,7 @@ Write a Java program to implement: **implement Binary Search**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5365,7 +5365,7 @@ Write a Java program to implement: **implement Bubble Sort**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5380,7 +5380,7 @@ Write a Java program to implement: **implement Selection Sort**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5395,7 +5395,7 @@ Write a Java program to implement: **implement Insertion Sort**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5410,7 +5410,7 @@ Write a Java program to implement: **implement Merge Sort**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5425,7 +5425,7 @@ Write a Java program to implement: **implement Quick Sort**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5440,7 +5440,7 @@ Write a Java program to implement: **implement Heap Sort**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5455,7 +5455,7 @@ Write a Java program to implement: **implement Counting Sort**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5470,7 +5470,7 @@ Write a Java program to implement: **implement Radix Sort**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5485,7 +5485,7 @@ Write a Java program to implement: **implement Bucket Sort**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5500,7 +5500,7 @@ Write a Java program to implement: **implement Binary Tree Traversals (Inorder, 
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5515,7 +5515,7 @@ Write a Java program to implement: **insert a node in a Binary Search Tree (BST)
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5530,7 +5530,7 @@ Write a Java program to implement: **search for a value in a Binary Search Tree 
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5545,7 +5545,7 @@ Write a Java program to implement: **delete a node from a Binary Search Tree (BS
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5560,7 +5560,7 @@ Write a Java program to implement: **perform Depth First Search (DFS) on a graph
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5575,7 +5575,7 @@ Write a Java program to implement: **perform Breadth First Search (BFS) on a gra
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5590,7 +5590,7 @@ Write a Java program to implement: **represent a graph using Adjacency List and 
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5605,7 +5605,7 @@ Write a Java program to implement: **implement Dijkstra's Algorithm for shortest
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5620,7 +5620,7 @@ Write a Java program to implement: **implement Floyd Warshall Algorithm for all-
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5635,7 +5635,7 @@ Write a Java program to implement: **implement Kruskal's Algorithm for Minimum S
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5650,7 +5650,7 @@ Write a Java program to implement: **implement Prim's Algorithm for Minimum Span
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5665,7 +5665,7 @@ Write a Java program to implement: **implement Topological Sort on a Directed Ac
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5680,7 +5680,7 @@ Write a Java program to implement: **detect cycles in directed and undirected gr
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5695,7 +5695,7 @@ Write a Java program to implement: **implement a Trie data structure (insert, se
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5710,7 +5710,7 @@ Write a Java program to implement: **implement a Segment Tree**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5725,7 +5725,7 @@ Write a Java program to implement: **implement a Fenwick Tree (Binary Indexed Tr
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5740,7 +5740,7 @@ Write a Java program to implement: **implement a Stack using an array**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5755,7 +5755,7 @@ Write a Java program to implement: **implement a Queue using an array**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5770,7 +5770,7 @@ Write a Java program to implement: **implement a Circular Queue**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5785,7 +5785,7 @@ Write a Java program to implement: **implement a Singly Linked List (insert, del
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5800,7 +5800,7 @@ Write a Java program to implement: **implement a Doubly Linked List**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5815,7 +5815,7 @@ Write a Java program to implement: **implement a Circular Linked List**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5830,7 +5830,7 @@ Write a Java program to implement: **detect a loop in a Linked List (Floyd's Cyc
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5845,7 +5845,7 @@ Write a Java program to implement: **reverse a Singly Linked List**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5860,7 +5860,7 @@ Write a Java program to implement: **simulate an LRU Cache (Design and Implement
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5875,7 +5875,7 @@ Write a Java program to implement: **implement a Min Heap**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5890,7 +5890,7 @@ Write a Java program to implement: **implement a Max Heap**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5905,7 +5905,7 @@ Write a Java program to implement: **solve the Sliding Window Maximum problem**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5920,7 +5920,7 @@ Write a Java program to implement: **solve the Two Sum problem**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5935,7 +5935,7 @@ Write a Java program to implement: **solve the Three Sum problem**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5950,7 +5950,7 @@ Write a Java program to implement: **find the Longest Substring Without Repeatin
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5965,7 +5965,7 @@ Write a Java program to implement: **find the Longest Increasing Subsequence**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5980,7 +5980,7 @@ Write a Java program to implement: **solve the Coin Change problem**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -5995,7 +5995,7 @@ Write a Java program to implement: **solve the 0/1 Knapsack problem**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -6010,7 +6010,7 @@ Write a Java program to implement: **solve the N-Queens problem**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -6025,7 +6025,7 @@ Write a Java program to implement: **solve the Sudoku Solver problem**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -6040,7 +6040,7 @@ Write a Java program to implement: **solve the Rat in a Maze problem**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -6055,7 +6055,7 @@ Write a Java program to implement: **solve the Word Search problem**.
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
@@ -6070,7 +6070,7 @@ Write a Java program to implement: **demonstrate Dynamic Programming Basics (e.g
 ```
 
 ---
-[⬆ Back to Top](#table-of-contents) | [📂 Main README](README.md)
+[⬆ Back to Top](#-table-of-contents-13) | [📂 Main README](README.md)
 
 ---
 
